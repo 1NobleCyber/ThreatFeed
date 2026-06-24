@@ -1,0 +1,38 @@
+rule threat_intel_domain_blocklist {
+  meta:
+    author = "1NobleCyber"
+    description = "Detects network activity or DNS queries targeting known malicious domains from an external blocklist."
+    severity = "High"
+    mitre_attack_tactic = "Command and Control"
+    mitre_attack_technique = "T1071.001"
+
+  events:
+    // 1. Capture multiple event types (DNS lookups, HTTP requests, or generic network connections)
+    (
+      $e.metadata.event_type = "NETWORK_DNS" or 
+      $e.metadata.event_type = "NETWORK_HTTP" or 
+      $e.metadata.event_type = "NETWORK_CONNECTION"
+    )
+
+    // 2. Map all target domain/hostname locations to a single variable
+    (
+      $target_domain = $e.network.dns.questions.name or
+      $target_domain = $e.network.http.referral_url or
+      $target_domain = $e.target.hostname
+    )
+
+    // 3. Match the variable against the (long) reference list
+    // This reference list can scale to hold up to 100,000+ domains.
+    $target_domain in %malicious_threat_intel_domains
+
+    // 4. Capture the initiating asset or user identity
+    $principal_asset = $e.principal.asset_id
+
+  match:
+    // Group alerts by the specific asset interacting with the bad domains over a 1-hour window
+    $principal_asset over 1h
+
+  condition:
+    // Trigger the detection if any matching event occurs
+    $e
+}
