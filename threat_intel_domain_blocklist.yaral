@@ -23,6 +23,7 @@ rule threat_intel_domain_blocklist {
 
     // 3. Match the variable against the (long) reference list
     // This reference list can scale to hold up to 100,000+ domains.
+    // This could be $target_domain in %Afraid_org
     $target_domain in %malicious_threat_intel_domains
 
     // 4. Capture the initiating asset or user identity
