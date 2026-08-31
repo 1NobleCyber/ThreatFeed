@@ -69,6 +69,8 @@ ironsnout.s3.amazonaws.com
 ironsnout.s3.us-east-1.amazonaws.com
 iuyt.s3.amazonaws.com
 iuyt.s3.us-east-1.amazonaws.com
+jlkl.s3.amazonaws.com
+jlkl.s3.us-east-1.amazonaws.com
 kiteduapp.s3.amazonaws.com
 kiteduapp.s3.us-east-1.amazonaws.com
 kitedumirror.s3.amazonaws.com
@@ -107,6 +109,8 @@ mistmath.s3.amazonaws.com
 mistmath.s3.us-east-1.amazonaws.com
 newyearnewfern.s3.amazonaws.com
 newyearnewfern.s3.us-east-1.amazonaws.com
+oiop.s3.amazonaws.com
+oiop.s3.us-east-1.amazonaws.com
 onelastlink.s3.amazonaws.com
 onelastlink.s3.us-east-1.amazonaws.com
 readvc.s3.amazonaws.com
@@ -148,6 +152,7 @@ s3.amazonaws.com/iloveliteratures
 s3.amazonaws.com/ilovemaths
 s3.amazonaws.com/ironsnout
 s3.amazonaws.com/iuyt
+s3.amazonaws.com/jlkl
 s3.amazonaws.com/kiteduapp
 s3.amazonaws.com/kitedumirror
 s3.amazonaws.com/kiteduweb
@@ -167,6 +172,7 @@ s3.amazonaws.com/mistedu
 s3.amazonaws.com/mistmac
 s3.amazonaws.com/mistmath
 s3.amazonaws.com/newyearnewfern
+s3.amazonaws.com/oiop
 s3.amazonaws.com/onelastlink
 s3.amazonaws.com/readvc
 s3.amazonaws.com/run3
@@ -213,6 +219,7 @@ s3.us-east-1.amazonaws.com/iloveliteratures
 s3.us-east-1.amazonaws.com/ilovemaths
 s3.us-east-1.amazonaws.com/ironsnout
 s3.us-east-1.amazonaws.com/iuyt
+s3.us-east-1.amazonaws.com/jlkl
 s3.us-east-1.amazonaws.com/kiteduapp
 s3.us-east-1.amazonaws.com/kitedumirror
 s3.us-east-1.amazonaws.com/kiteduweb
@@ -232,6 +239,7 @@ s3.us-east-1.amazonaws.com/mistedu
 s3.us-east-1.amazonaws.com/mistmac
 s3.us-east-1.amazonaws.com/mistmath
 s3.us-east-1.amazonaws.com/newyearnewfern
+s3.us-east-1.amazonaws.com/oiop
 s3.us-east-1.amazonaws.com/onelastlink
 s3.us-east-1.amazonaws.com/readvc
 s3.us-east-1.amazonaws.com/run3
