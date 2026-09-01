@@ -37,6 +37,8 @@ bullubg.s3.amazonaws.com
 bullubg.s3.us-east-1.amazonaws.com
 bullyt.s3.amazonaws.com
 bullyt.s3.us-east-1.amazonaws.com
+c4lowrb4.s3.amazonaws.com
+c4lowrb4.s3.us-east-1.amazonaws.com
 cedarlearn.s3.amazonaws.com
 cedarlearn.s3.us-east-1.amazonaws.com
 cherrisux.s3.amazonaws.com
@@ -156,6 +158,7 @@ s3.amazonaws.com/bullproxy
 s3.amazonaws.com/bullreading
 s3.amazonaws.com/bullubg
 s3.amazonaws.com/bullyt
+s3.amazonaws.com/c4lowrb4
 s3.amazonaws.com/cedarlearn
 s3.amazonaws.com/cherrisux
 s3.amazonaws.com/christopher2
@@ -235,6 +238,7 @@ s3.us-east-1.amazonaws.com/bullproxy
 s3.us-east-1.amazonaws.com/bullreading
 s3.us-east-1.amazonaws.com/bullubg
 s3.us-east-1.amazonaws.com/bullyt
+s3.us-east-1.amazonaws.com/c4lowrb4
 s3.us-east-1.amazonaws.com/cedarlearn
 s3.us-east-1.amazonaws.com/cherrisux
 s3.us-east-1.amazonaws.com/christopher2
