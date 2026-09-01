@@ -219,6 +219,7 @@ s3.amazonaws.com/v3-sportsurgetv-o
 s3.amazonaws.com/vcsa-sux
 s3.amazonaws.com/vcsafern
 s3.amazonaws.com/vcsareading
+s3.amazonaws.com/vertexspace
 s3.amazonaws.com/writevc
 s3.us-east-1.amazonaws.com/angelfern
 s3.us-east-1.amazonaws.com/bestgamelol
@@ -300,6 +301,7 @@ s3.us-east-1.amazonaws.com/v3-sportsurgetv-o
 s3.us-east-1.amazonaws.com/vcsa-sux
 s3.us-east-1.amazonaws.com/vcsafern
 s3.us-east-1.amazonaws.com/vcsareading
+s3.us-east-1.amazonaws.com/vertexspace
 s3.us-east-1.amazonaws.com/writevc
 sagedesk.s3.amazonaws.com
 sagedesk.s3.us-east-1.amazonaws.com
@@ -321,5 +323,7 @@ vcsafern.s3.amazonaws.com
 vcsafern.s3.us-east-1.amazonaws.com
 vcsareading.s3.amazonaws.com
 vcsareading.s3.us-east-1.amazonaws.com
+vertexspace.s3.amazonaws.com
+vertexspace.s3.us-east-1.amazonaws.com
 writevc.s3.amazonaws.com
 writevc.s3.us-east-1.amazonaws.com
