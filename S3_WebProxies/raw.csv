@@ -67,6 +67,8 @@ gnsux.s3.amazonaws.com
 gnsux.s3.us-east-1.amazonaws.com
 googleclass.s3.amazonaws.com
 googleclass.s3.us-east-1.amazonaws.com
+hpvtncl9.s3.amazonaws.com
+hpvtncl9.s3.us-east-1.amazonaws.com
 ilovecalc.s3.amazonaws.com
 ilovecalc.s3.us-east-1.amazonaws.com
 iloveliteratures.s3.amazonaws.com
@@ -161,6 +163,7 @@ s3.amazonaws.com/fstudentsareinventors
 s3.amazonaws.com/glwithfinals
 s3.amazonaws.com/gnsux
 s3.amazonaws.com/googleclass
+s3.amazonaws.com/hpvtncl9
 s3.amazonaws.com/ilovecalc
 s3.amazonaws.com/iloveliteratures
 s3.amazonaws.com/ilovemaths
@@ -234,6 +237,7 @@ s3.us-east-1.amazonaws.com/fstudentsareinventors
 s3.us-east-1.amazonaws.com/glwithfinals
 s3.us-east-1.amazonaws.com/gnsux
 s3.us-east-1.amazonaws.com/googleclass
+s3.us-east-1.amazonaws.com/hpvtncl9
 s3.us-east-1.amazonaws.com/ilovecalc
 s3.us-east-1.amazonaws.com/iloveliteratures
 s3.us-east-1.amazonaws.com/ilovemaths
