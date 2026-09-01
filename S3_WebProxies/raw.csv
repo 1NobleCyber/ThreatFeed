@@ -209,6 +209,7 @@ s3.amazonaws.com/onelastlink
 s3.amazonaws.com/physicsprep
 s3.amazonaws.com/readvc
 s3.amazonaws.com/run3
+s3.amazonaws.com/sagedesk
 s3.amazonaws.com/scholardesk
 s3.amazonaws.com/slantsite
 s3.amazonaws.com/subtobull
@@ -289,6 +290,7 @@ s3.us-east-1.amazonaws.com/onelastlink
 s3.us-east-1.amazonaws.com/physicsprep
 s3.us-east-1.amazonaws.com/readvc
 s3.us-east-1.amazonaws.com/run3
+s3.us-east-1.amazonaws.com/sagedesk
 s3.us-east-1.amazonaws.com/scholardesk
 s3.us-east-1.amazonaws.com/slantsite
 s3.us-east-1.amazonaws.com/subtobull
@@ -299,6 +301,8 @@ s3.us-east-1.amazonaws.com/vcsa-sux
 s3.us-east-1.amazonaws.com/vcsafern
 s3.us-east-1.amazonaws.com/vcsareading
 s3.us-east-1.amazonaws.com/writevc
+sagedesk.s3.amazonaws.com
+sagedesk.s3.us-east-1.amazonaws.com
 scholardesk.s3.amazonaws.com
 scholardesk.s3.us-east-1.amazonaws.com
 slantsite.s3.amazonaws.com
