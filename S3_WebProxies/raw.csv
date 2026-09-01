@@ -3,6 +3,8 @@ angelfern.s3.amazonaws.com
 angelfern.s3.us-east-1.amazonaws.com
 bestgamelol.s3.amazonaws.com
 bestgamelol.s3.us-east-1.amazonaws.com
+brightloft.s3.amazonaws.com
+brightloft.s3.us-east-1.amazonaws.com
 brightschooling.s3.amazonaws.com
 brightschooling.s3.us-east-1.amazonaws.com
 budge-s3explorer.s3.amazonaws.com
@@ -107,6 +109,8 @@ macrologoat.s3.amazonaws.com
 macrologoat.s3.us-east-1.amazonaws.com
 macrolomath.s3.amazonaws.com
 macrolomath.s3.us-east-1.amazonaws.com
+mapleprep.s3.amazonaws.com
+mapleprep.s3.us-east-1.amazonaws.com
 mathisgreataf.s3.amazonaws.com
 mathisgreataf.s3.us-east-1.amazonaws.com
 mathvc.s3.amazonaws.com
@@ -135,6 +139,7 @@ run3.s3.amazonaws.com
 run3.s3.us-east-1.amazonaws.com
 s3.amazonaws.com/angelfern
 s3.amazonaws.com/bestgamelol
+s3.amazonaws.com/brightloft
 s3.amazonaws.com/brightschooling
 s3.amazonaws.com/budge-s3explorer
 s3.amazonaws.com/bull-best
@@ -187,6 +192,7 @@ s3.amazonaws.com/lucidesux
 s3.amazonaws.com/macrolo
 s3.amazonaws.com/macrologoat
 s3.amazonaws.com/macrolomath
+s3.amazonaws.com/mapleprep
 s3.amazonaws.com/mathisgreataf
 s3.amazonaws.com/mathvc
 s3.amazonaws.com/mistcalc
@@ -212,6 +218,7 @@ s3.amazonaws.com/vcsareading
 s3.amazonaws.com/writevc
 s3.us-east-1.amazonaws.com/angelfern
 s3.us-east-1.amazonaws.com/bestgamelol
+s3.us-east-1.amazonaws.com/brightloft
 s3.us-east-1.amazonaws.com/brightschooling
 s3.us-east-1.amazonaws.com/budge-s3explorer
 s3.us-east-1.amazonaws.com/bull-best
@@ -264,6 +271,7 @@ s3.us-east-1.amazonaws.com/lucidesux
 s3.us-east-1.amazonaws.com/macrolo
 s3.us-east-1.amazonaws.com/macrologoat
 s3.us-east-1.amazonaws.com/macrolomath
+s3.us-east-1.amazonaws.com/mapleprep
 s3.us-east-1.amazonaws.com/mathisgreataf
 s3.us-east-1.amazonaws.com/mathvc
 s3.us-east-1.amazonaws.com/mistcalc
