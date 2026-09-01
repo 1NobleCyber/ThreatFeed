@@ -197,6 +197,7 @@ s3.amazonaws.com/run3
 s3.amazonaws.com/scholardesk
 s3.amazonaws.com/slantsite
 s3.amazonaws.com/subtobull
+s3.amazonaws.com/t53li04c
 s3.amazonaws.com/usekitedu
 s3.amazonaws.com/v3-sportsurgetv-o
 s3.amazonaws.com/vcsa-sux
@@ -271,6 +272,7 @@ s3.us-east-1.amazonaws.com/run3
 s3.us-east-1.amazonaws.com/scholardesk
 s3.us-east-1.amazonaws.com/slantsite
 s3.us-east-1.amazonaws.com/subtobull
+s3.us-east-1.amazonaws.com/t53li04c
 s3.us-east-1.amazonaws.com/usekitedu
 s3.us-east-1.amazonaws.com/v3-sportsurgetv-o
 s3.us-east-1.amazonaws.com/vcsa-sux
@@ -283,6 +285,8 @@ slantsite.s3.amazonaws.com
 slantsite.s3.us-east-1.amazonaws.com
 subtobull.s3.amazonaws.com
 subtobull.s3.us-east-1.amazonaws.com
+t53li04c.s3.amazonaws.com
+t53li04c.s3.us-east-1.amazonaws.com
 usekitedu.s3.amazonaws.com
 usekitedu.s3.us-east-1.amazonaws.com
 v3-sportsurgetv-o.s3.amazonaws.com
