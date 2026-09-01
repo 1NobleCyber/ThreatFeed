@@ -87,6 +87,8 @@ kitedumirror.s3.amazonaws.com
 kitedumirror.s3.us-east-1.amazonaws.com
 kiteduweb.s3.amazonaws.com
 kiteduweb.s3.us-east-1.amazonaws.com
+lessonbay.s3.amazonaws.com
+lessonbay.s3.us-east-1.amazonaws.com
 lsrelay-a.s3.amazonaws.com
 lsrelay-a.s3.us-east-1.amazonaws.com
 lsrelay-extension-production.s3.amazonaws.com
@@ -173,6 +175,7 @@ s3.amazonaws.com/jlkl
 s3.amazonaws.com/kiteduapp
 s3.amazonaws.com/kitedumirror
 s3.amazonaws.com/kiteduweb
+s3.amazonaws.com/lessonbay
 s3.amazonaws.com/lsrelay-a
 s3.amazonaws.com/lsrelay-extension-production
 s3.amazonaws.com/lsrelay-i
@@ -248,6 +251,7 @@ s3.us-east-1.amazonaws.com/jlkl
 s3.us-east-1.amazonaws.com/kiteduapp
 s3.us-east-1.amazonaws.com/kitedumirror
 s3.us-east-1.amazonaws.com/kiteduweb
+s3.us-east-1.amazonaws.com/lessonbay
 s3.us-east-1.amazonaws.com/lsrelay-a
 s3.us-east-1.amazonaws.com/lsrelay-extension-production
 s3.us-east-1.amazonaws.com/lsrelay-i
