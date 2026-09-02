@@ -225,6 +225,7 @@ s3.amazonaws.com/ttbest
 s3.amazonaws.com/usekitedu
 s3.amazonaws.com/v3-sportsurgetv-o
 s3.amazonaws.com/vcsa-sux
+s3.amazonaws.com/vcsa-yt
 s3.amazonaws.com/vcsafern
 s3.amazonaws.com/vcsareading
 s3.amazonaws.com/vertexspace
@@ -311,6 +312,7 @@ s3.us-east-1.amazonaws.com/ttbest
 s3.us-east-1.amazonaws.com/usekitedu
 s3.us-east-1.amazonaws.com/v3-sportsurgetv-o
 s3.us-east-1.amazonaws.com/vcsa-sux
+s3.us-east-1.amazonaws.com/vcsa-yt
 s3.us-east-1.amazonaws.com/vcsafern
 s3.us-east-1.amazonaws.com/vcsareading
 s3.us-east-1.amazonaws.com/vertexspace
@@ -335,6 +337,8 @@ v3-sportsurgetv-o.s3.amazonaws.com
 v3-sportsurgetv-o.s3.us-east-1.amazonaws.com
 vcsa-sux.s3.amazonaws.com
 vcsa-sux.s3.us-east-1.amazonaws.com
+vcsa-yt.s3.amazonaws.com
+vcsa-yt.s3.us-east-1.amazonaws.com
 vcsafern.s3.amazonaws.com
 vcsafern.s3.us-east-1.amazonaws.com
 vcsareading.s3.amazonaws.com
