@@ -53,6 +53,8 @@ deaganfern.s3.amazonaws.com
 deaganfern.s3.us-east-1.amazonaws.com
 deltamath-demo.s3.amazonaws.com
 deltamath-demo.s3.us-east-1.amazonaws.com
+driftwell.s3.amazonaws.com
+driftwell.s3.us-east-1.amazonaws.com
 fernlinks.s3.amazonaws.com
 fernlinks.s3.us-east-1.amazonaws.com
 fernvcsa.s3.amazonaws.com
@@ -166,6 +168,7 @@ s3.amazonaws.com/christopher2u
 s3.amazonaws.com/cleverlearning
 s3.amazonaws.com/deaganfern
 s3.amazonaws.com/deltamath-demo
+s3.amazonaws.com/driftwell
 s3.amazonaws.com/fernlinks
 s3.amazonaws.com/fernvcsa
 s3.amazonaws.com/finallybull
@@ -248,6 +251,7 @@ s3.us-east-1.amazonaws.com/christopher2u
 s3.us-east-1.amazonaws.com/cleverlearning
 s3.us-east-1.amazonaws.com/deaganfern
 s3.us-east-1.amazonaws.com/deltamath-demo
+s3.us-east-1.amazonaws.com/driftwell
 s3.us-east-1.amazonaws.com/fernlinks
 s3.us-east-1.amazonaws.com/fernvcsa
 s3.us-east-1.amazonaws.com/finallybull
