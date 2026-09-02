@@ -214,6 +214,7 @@ s3.amazonaws.com/readvc
 s3.amazonaws.com/run3
 s3.amazonaws.com/sagedesk
 s3.amazonaws.com/scholardesk
+s3.amazonaws.com/schoolsucks
 s3.amazonaws.com/slantsite
 s3.amazonaws.com/subtobull
 s3.amazonaws.com/t53li04c
@@ -298,6 +299,7 @@ s3.us-east-1.amazonaws.com/readvc
 s3.us-east-1.amazonaws.com/run3
 s3.us-east-1.amazonaws.com/sagedesk
 s3.us-east-1.amazonaws.com/scholardesk
+s3.us-east-1.amazonaws.com/schoolsucks
 s3.us-east-1.amazonaws.com/slantsite
 s3.us-east-1.amazonaws.com/subtobull
 s3.us-east-1.amazonaws.com/t53li04c
@@ -313,6 +315,8 @@ sagedesk.s3.amazonaws.com
 sagedesk.s3.us-east-1.amazonaws.com
 scholardesk.s3.amazonaws.com
 scholardesk.s3.us-east-1.amazonaws.com
+schoolsucks.s3.amazonaws.com
+schoolsucks.s3.us-east-1.amazonaws.com
 slantsite.s3.amazonaws.com
 slantsite.s3.us-east-1.amazonaws.com
 subtobull.s3.amazonaws.com
