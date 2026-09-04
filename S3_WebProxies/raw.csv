@@ -486,6 +486,7 @@ s3-external-1.amazonaws.com/vcsa-sux
 s3-external-1.amazonaws.com/vcsa-yt
 s3-external-1.amazonaws.com/vcsafern
 s3-external-1.amazonaws.com/vcsareading
+s3-external-1.amazonaws.com/vcsayt
 s3-external-1.amazonaws.com/vertexspace
 s3-external-1.amazonaws.com/writevc
 s3-external-1.amazonaws.com/zoxh
@@ -582,6 +583,7 @@ s3-external-2.amazonaws.com/vcsa-sux
 s3-external-2.amazonaws.com/vcsa-yt
 s3-external-2.amazonaws.com/vcsafern
 s3-external-2.amazonaws.com/vcsareading
+s3-external-2.amazonaws.com/vcsayt
 s3-external-2.amazonaws.com/vertexspace
 s3-external-2.amazonaws.com/writevc
 s3-external-2.amazonaws.com/zoxh
@@ -678,6 +680,7 @@ s3.amazonaws.com/vcsa-sux
 s3.amazonaws.com/vcsa-yt
 s3.amazonaws.com/vcsafern
 s3.amazonaws.com/vcsareading
+s3.amazonaws.com/vcsayt
 s3.amazonaws.com/vertexspace
 s3.amazonaws.com/writevc
 s3.amazonaws.com/zoxh
@@ -774,6 +777,7 @@ s3.dualstack.us-east-1.amazonaws.com/vcsa-sux
 s3.dualstack.us-east-1.amazonaws.com/vcsa-yt
 s3.dualstack.us-east-1.amazonaws.com/vcsafern
 s3.dualstack.us-east-1.amazonaws.com/vcsareading
+s3.dualstack.us-east-1.amazonaws.com/vcsayt
 s3.dualstack.us-east-1.amazonaws.com/vertexspace
 s3.dualstack.us-east-1.amazonaws.com/writevc
 s3.dualstack.us-east-1.amazonaws.com/zoxh
@@ -870,6 +874,7 @@ s3.us-east-1.amazonaws.com/vcsa-sux
 s3.us-east-1.amazonaws.com/vcsa-yt
 s3.us-east-1.amazonaws.com/vcsafern
 s3.us-east-1.amazonaws.com/vcsareading
+s3.us-east-1.amazonaws.com/vcsayt
 s3.us-east-1.amazonaws.com/vertexspace
 s3.us-east-1.amazonaws.com/writevc
 s3.us-east-1.amazonaws.com/zoxh
@@ -943,6 +948,11 @@ vcsareading.s3-external-2.amazonaws.com
 vcsareading.s3.amazonaws.com
 vcsareading.s3.dualstack.us-east-1.amazonaws.com
 vcsareading.s3.us-east-1.amazonaws.com
+vcsayt.s3-external-1.amazonaws.com
+vcsayt.s3-external-2.amazonaws.com
+vcsayt.s3.amazonaws.com
+vcsayt.s3.dualstack.us-east-1.amazonaws.com
+vcsayt.s3.us-east-1.amazonaws.com
 vertexspace.s3-external-1.amazonaws.com
 vertexspace.s3-external-2.amazonaws.com
 vertexspace.s3.amazonaws.com
