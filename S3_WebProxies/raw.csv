@@ -224,6 +224,11 @@ jlkl.s3-external-2.amazonaws.com
 jlkl.s3.amazonaws.com
 jlkl.s3.dualstack.us-east-1.amazonaws.com
 jlkl.s3.us-east-1.amazonaws.com
+kitebrowser.s3-external-1.amazonaws.com
+kitebrowser.s3-external-2.amazonaws.com
+kitebrowser.s3.amazonaws.com
+kitebrowser.s3.dualstack.us-east-1.amazonaws.com
+kitebrowser.s3.us-east-1.amazonaws.com
 kiteduapp.s3-external-1.amazonaws.com
 kiteduapp.s3-external-2.amazonaws.com
 kiteduapp.s3.amazonaws.com
@@ -423,6 +428,7 @@ s3-external-1.amazonaws.com/ilovemaths
 s3-external-1.amazonaws.com/ironsnout
 s3-external-1.amazonaws.com/iuyt
 s3-external-1.amazonaws.com/jlkl
+s3-external-1.amazonaws.com/kitebrowser
 s3-external-1.amazonaws.com/kiteduapp
 s3-external-1.amazonaws.com/kitedumirror
 s3-external-1.amazonaws.com/kiteduweb
@@ -516,6 +522,7 @@ s3-external-2.amazonaws.com/ilovemaths
 s3-external-2.amazonaws.com/ironsnout
 s3-external-2.amazonaws.com/iuyt
 s3-external-2.amazonaws.com/jlkl
+s3-external-2.amazonaws.com/kitebrowser
 s3-external-2.amazonaws.com/kiteduapp
 s3-external-2.amazonaws.com/kitedumirror
 s3-external-2.amazonaws.com/kiteduweb
@@ -609,6 +616,7 @@ s3.amazonaws.com/ilovemaths
 s3.amazonaws.com/ironsnout
 s3.amazonaws.com/iuyt
 s3.amazonaws.com/jlkl
+s3.amazonaws.com/kitebrowser
 s3.amazonaws.com/kiteduapp
 s3.amazonaws.com/kitedumirror
 s3.amazonaws.com/kiteduweb
@@ -702,6 +710,7 @@ s3.dualstack.us-east-1.amazonaws.com/ilovemaths
 s3.dualstack.us-east-1.amazonaws.com/ironsnout
 s3.dualstack.us-east-1.amazonaws.com/iuyt
 s3.dualstack.us-east-1.amazonaws.com/jlkl
+s3.dualstack.us-east-1.amazonaws.com/kitebrowser
 s3.dualstack.us-east-1.amazonaws.com/kiteduapp
 s3.dualstack.us-east-1.amazonaws.com/kitedumirror
 s3.dualstack.us-east-1.amazonaws.com/kiteduweb
@@ -795,6 +804,7 @@ s3.us-east-1.amazonaws.com/ilovemaths
 s3.us-east-1.amazonaws.com/ironsnout
 s3.us-east-1.amazonaws.com/iuyt
 s3.us-east-1.amazonaws.com/jlkl
+s3.us-east-1.amazonaws.com/kitebrowser
 s3.us-east-1.amazonaws.com/kiteduapp
 s3.us-east-1.amazonaws.com/kitedumirror
 s3.us-east-1.amazonaws.com/kiteduweb
