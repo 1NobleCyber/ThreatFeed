@@ -369,6 +369,11 @@ physicsprep.s3-external-2.amazonaws.com
 physicsprep.s3.amazonaws.com
 physicsprep.s3.dualstack.us-east-1.amazonaws.com
 physicsprep.s3.us-east-1.amazonaws.com
+playernation.s3-external-1.amazonaws.com
+playernation.s3-external-2.amazonaws.com
+playernation.s3.amazonaws.com
+playernation.s3.dualstack.us-east-1.amazonaws.com
+playernation.s3.us-east-1.amazonaws.com
 quietbirchstudy.s3-external-1.amazonaws.com
 quietbirchstudy.s3-external-2.amazonaws.com
 quietbirchstudy.s3.amazonaws.com
@@ -462,6 +467,7 @@ s3-external-1.amazonaws.com/notegrove
 s3-external-1.amazonaws.com/oiop
 s3-external-1.amazonaws.com/onelastlink
 s3-external-1.amazonaws.com/physicsprep
+s3-external-1.amazonaws.com/playernation
 s3-external-1.amazonaws.com/quietbirchstudy
 s3-external-1.amazonaws.com/rahisbullsgoat
 s3-external-1.amazonaws.com/readvc
@@ -557,6 +563,7 @@ s3-external-2.amazonaws.com/notegrove
 s3-external-2.amazonaws.com/oiop
 s3-external-2.amazonaws.com/onelastlink
 s3-external-2.amazonaws.com/physicsprep
+s3-external-2.amazonaws.com/playernation
 s3-external-2.amazonaws.com/quietbirchstudy
 s3-external-2.amazonaws.com/rahisbullsgoat
 s3-external-2.amazonaws.com/readvc
@@ -652,6 +659,7 @@ s3.amazonaws.com/notegrove
 s3.amazonaws.com/oiop
 s3.amazonaws.com/onelastlink
 s3.amazonaws.com/physicsprep
+s3.amazonaws.com/playernation
 s3.amazonaws.com/quietbirchstudy
 s3.amazonaws.com/rahisbullsgoat
 s3.amazonaws.com/readvc
@@ -747,6 +755,7 @@ s3.dualstack.us-east-1.amazonaws.com/notegrove
 s3.dualstack.us-east-1.amazonaws.com/oiop
 s3.dualstack.us-east-1.amazonaws.com/onelastlink
 s3.dualstack.us-east-1.amazonaws.com/physicsprep
+s3.dualstack.us-east-1.amazonaws.com/playernation
 s3.dualstack.us-east-1.amazonaws.com/quietbirchstudy
 s3.dualstack.us-east-1.amazonaws.com/rahisbullsgoat
 s3.dualstack.us-east-1.amazonaws.com/readvc
@@ -842,6 +851,7 @@ s3.us-east-1.amazonaws.com/notegrove
 s3.us-east-1.amazonaws.com/oiop
 s3.us-east-1.amazonaws.com/onelastlink
 s3.us-east-1.amazonaws.com/physicsprep
+s3.us-east-1.amazonaws.com/playernation
 s3.us-east-1.amazonaws.com/quietbirchstudy
 s3.us-east-1.amazonaws.com/rahisbullsgoat
 s3.us-east-1.amazonaws.com/readvc
