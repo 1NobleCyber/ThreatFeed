@@ -244,6 +244,11 @@ lessonbay.s3-external-2.amazonaws.com
 lessonbay.s3.amazonaws.com
 lessonbay.s3.dualstack.us-east-1.amazonaws.com
 lessonbay.s3.us-east-1.amazonaws.com
+lgbq.s3-external-1.amazonaws.com
+lgbq.s3-external-2.amazonaws.com
+lgbq.s3.amazonaws.com
+lgbq.s3.dualstack.us-east-1.amazonaws.com
+lgbq.s3.us-east-1.amazonaws.com
 lsrelay-a.s3-external-1.amazonaws.com
 lsrelay-a.s3-external-2.amazonaws.com
 lsrelay-a.s3.amazonaws.com
@@ -422,6 +427,7 @@ s3-external-1.amazonaws.com/kiteduapp
 s3-external-1.amazonaws.com/kitedumirror
 s3-external-1.amazonaws.com/kiteduweb
 s3-external-1.amazonaws.com/lessonbay
+s3-external-1.amazonaws.com/lgbq
 s3-external-1.amazonaws.com/lsrelay-a
 s3-external-1.amazonaws.com/lsrelay-extension-production
 s3-external-1.amazonaws.com/lsrelay-i
@@ -514,6 +520,7 @@ s3-external-2.amazonaws.com/kiteduapp
 s3-external-2.amazonaws.com/kitedumirror
 s3-external-2.amazonaws.com/kiteduweb
 s3-external-2.amazonaws.com/lessonbay
+s3-external-2.amazonaws.com/lgbq
 s3-external-2.amazonaws.com/lsrelay-a
 s3-external-2.amazonaws.com/lsrelay-extension-production
 s3-external-2.amazonaws.com/lsrelay-i
@@ -606,6 +613,7 @@ s3.amazonaws.com/kiteduapp
 s3.amazonaws.com/kitedumirror
 s3.amazonaws.com/kiteduweb
 s3.amazonaws.com/lessonbay
+s3.amazonaws.com/lgbq
 s3.amazonaws.com/lsrelay-a
 s3.amazonaws.com/lsrelay-extension-production
 s3.amazonaws.com/lsrelay-i
@@ -698,6 +706,7 @@ s3.dualstack.us-east-1.amazonaws.com/kiteduapp
 s3.dualstack.us-east-1.amazonaws.com/kitedumirror
 s3.dualstack.us-east-1.amazonaws.com/kiteduweb
 s3.dualstack.us-east-1.amazonaws.com/lessonbay
+s3.dualstack.us-east-1.amazonaws.com/lgbq
 s3.dualstack.us-east-1.amazonaws.com/lsrelay-a
 s3.dualstack.us-east-1.amazonaws.com/lsrelay-extension-production
 s3.dualstack.us-east-1.amazonaws.com/lsrelay-i
@@ -790,6 +799,7 @@ s3.us-east-1.amazonaws.com/kiteduapp
 s3.us-east-1.amazonaws.com/kitedumirror
 s3.us-east-1.amazonaws.com/kiteduweb
 s3.us-east-1.amazonaws.com/lessonbay
+s3.us-east-1.amazonaws.com/lgbq
 s3.us-east-1.amazonaws.com/lsrelay-a
 s3.us-east-1.amazonaws.com/lsrelay-extension-production
 s3.us-east-1.amazonaws.com/lsrelay-i
