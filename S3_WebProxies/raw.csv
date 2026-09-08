@@ -9,6 +9,11 @@ angelfern.s3-external-2.amazonaws.com
 angelfern.s3.amazonaws.com
 angelfern.s3.dualstack.us-east-1.amazonaws.com
 angelfern.s3.us-east-1.amazonaws.com
+aphistory.s3-external-1.amazonaws.com
+aphistory.s3-external-2.amazonaws.com
+aphistory.s3.amazonaws.com
+aphistory.s3.dualstack.us-east-1.amazonaws.com
+aphistory.s3.us-east-1.amazonaws.com
 bestgamelol.s3-external-1.amazonaws.com
 bestgamelol.s3-external-2.amazonaws.com
 bestgamelol.s3.amazonaws.com
@@ -396,6 +401,7 @@ run3.s3.dualstack.us-east-1.amazonaws.com
 run3.s3.us-east-1.amazonaws.com
 s3-external-1.amazonaws.com/a4cxjc3
 s3-external-1.amazonaws.com/angelfern
+s3-external-1.amazonaws.com/aphistory
 s3-external-1.amazonaws.com/bestgamelol
 s3-external-1.amazonaws.com/brightloft
 s3-external-1.amazonaws.com/brightschooling
@@ -492,6 +498,7 @@ s3-external-1.amazonaws.com/writevc
 s3-external-1.amazonaws.com/zoxh
 s3-external-2.amazonaws.com/a4cxjc3
 s3-external-2.amazonaws.com/angelfern
+s3-external-2.amazonaws.com/aphistory
 s3-external-2.amazonaws.com/bestgamelol
 s3-external-2.amazonaws.com/brightloft
 s3-external-2.amazonaws.com/brightschooling
@@ -589,6 +596,7 @@ s3-external-2.amazonaws.com/writevc
 s3-external-2.amazonaws.com/zoxh
 s3.amazonaws.com/a4cxjc3
 s3.amazonaws.com/angelfern
+s3.amazonaws.com/aphistory
 s3.amazonaws.com/bestgamelol
 s3.amazonaws.com/brightloft
 s3.amazonaws.com/brightschooling
@@ -686,6 +694,7 @@ s3.amazonaws.com/writevc
 s3.amazonaws.com/zoxh
 s3.dualstack.us-east-1.amazonaws.com/a4cxjc3
 s3.dualstack.us-east-1.amazonaws.com/angelfern
+s3.dualstack.us-east-1.amazonaws.com/aphistory
 s3.dualstack.us-east-1.amazonaws.com/bestgamelol
 s3.dualstack.us-east-1.amazonaws.com/brightloft
 s3.dualstack.us-east-1.amazonaws.com/brightschooling
@@ -783,6 +792,7 @@ s3.dualstack.us-east-1.amazonaws.com/writevc
 s3.dualstack.us-east-1.amazonaws.com/zoxh
 s3.us-east-1.amazonaws.com/a4cxjc3
 s3.us-east-1.amazonaws.com/angelfern
+s3.us-east-1.amazonaws.com/aphistory
 s3.us-east-1.amazonaws.com/bestgamelol
 s3.us-east-1.amazonaws.com/brightloft
 s3.us-east-1.amazonaws.com/brightschooling
