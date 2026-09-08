@@ -516,6 +516,7 @@ s3-external-1.amazonaws.com/subtobull
 s3-external-1.amazonaws.com/t53li04c
 s3-external-1.amazonaws.com/tcgj
 s3-external-1.amazonaws.com/ttbest
+s3-external-1.amazonaws.com/tungy
 s3-external-1.amazonaws.com/usekitedu
 s3-external-1.amazonaws.com/utopiaweb
 s3-external-1.amazonaws.com/v3-sportsurgetv-o
@@ -621,6 +622,7 @@ s3-external-2.amazonaws.com/subtobull
 s3-external-2.amazonaws.com/t53li04c
 s3-external-2.amazonaws.com/tcgj
 s3-external-2.amazonaws.com/ttbest
+s3-external-2.amazonaws.com/tungy
 s3-external-2.amazonaws.com/usekitedu
 s3-external-2.amazonaws.com/utopiaweb
 s3-external-2.amazonaws.com/v3-sportsurgetv-o
@@ -726,6 +728,7 @@ s3.amazonaws.com/subtobull
 s3.amazonaws.com/t53li04c
 s3.amazonaws.com/tcgj
 s3.amazonaws.com/ttbest
+s3.amazonaws.com/tungy
 s3.amazonaws.com/usekitedu
 s3.amazonaws.com/utopiaweb
 s3.amazonaws.com/v3-sportsurgetv-o
@@ -831,6 +834,7 @@ s3.dualstack.us-east-1.amazonaws.com/subtobull
 s3.dualstack.us-east-1.amazonaws.com/t53li04c
 s3.dualstack.us-east-1.amazonaws.com/tcgj
 s3.dualstack.us-east-1.amazonaws.com/ttbest
+s3.dualstack.us-east-1.amazonaws.com/tungy
 s3.dualstack.us-east-1.amazonaws.com/usekitedu
 s3.dualstack.us-east-1.amazonaws.com/utopiaweb
 s3.dualstack.us-east-1.amazonaws.com/v3-sportsurgetv-o
@@ -936,6 +940,7 @@ s3.us-east-1.amazonaws.com/subtobull
 s3.us-east-1.amazonaws.com/t53li04c
 s3.us-east-1.amazonaws.com/tcgj
 s3.us-east-1.amazonaws.com/ttbest
+s3.us-east-1.amazonaws.com/tungy
 s3.us-east-1.amazonaws.com/usekitedu
 s3.us-east-1.amazonaws.com/utopiaweb
 s3.us-east-1.amazonaws.com/v3-sportsurgetv-o
@@ -988,6 +993,11 @@ ttbest.s3-external-2.amazonaws.com
 ttbest.s3.amazonaws.com
 ttbest.s3.dualstack.us-east-1.amazonaws.com
 ttbest.s3.us-east-1.amazonaws.com
+tungy.s3-external-1.amazonaws.com
+tungy.s3-external-2.amazonaws.com
+tungy.s3.amazonaws.com
+tungy.s3.dualstack.us-east-1.amazonaws.com
+tungy.s3.us-east-1.amazonaws.com
 usekitedu.s3-external-1.amazonaws.com
 usekitedu.s3-external-2.amazonaws.com
 usekitedu.s3.amazonaws.com
