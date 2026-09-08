@@ -520,6 +520,7 @@ s3-external-1.amazonaws.com/vcsareading
 s3-external-1.amazonaws.com/vcsayt
 s3-external-1.amazonaws.com/vertexspace
 s3-external-1.amazonaws.com/writevc
+s3-external-1.amazonaws.com/z4fm
 s3-external-1.amazonaws.com/zoxh
 s3-external-2.amazonaws.com/7pfp
 s3-external-2.amazonaws.com/a4cxjc3
@@ -623,6 +624,7 @@ s3-external-2.amazonaws.com/vcsareading
 s3-external-2.amazonaws.com/vcsayt
 s3-external-2.amazonaws.com/vertexspace
 s3-external-2.amazonaws.com/writevc
+s3-external-2.amazonaws.com/z4fm
 s3-external-2.amazonaws.com/zoxh
 s3.amazonaws.com/7pfp
 s3.amazonaws.com/a4cxjc3
@@ -726,6 +728,7 @@ s3.amazonaws.com/vcsareading
 s3.amazonaws.com/vcsayt
 s3.amazonaws.com/vertexspace
 s3.amazonaws.com/writevc
+s3.amazonaws.com/z4fm
 s3.amazonaws.com/zoxh
 s3.dualstack.us-east-1.amazonaws.com/7pfp
 s3.dualstack.us-east-1.amazonaws.com/a4cxjc3
@@ -829,6 +832,7 @@ s3.dualstack.us-east-1.amazonaws.com/vcsareading
 s3.dualstack.us-east-1.amazonaws.com/vcsayt
 s3.dualstack.us-east-1.amazonaws.com/vertexspace
 s3.dualstack.us-east-1.amazonaws.com/writevc
+s3.dualstack.us-east-1.amazonaws.com/z4fm
 s3.dualstack.us-east-1.amazonaws.com/zoxh
 s3.us-east-1.amazonaws.com/7pfp
 s3.us-east-1.amazonaws.com/a4cxjc3
@@ -932,6 +936,7 @@ s3.us-east-1.amazonaws.com/vcsareading
 s3.us-east-1.amazonaws.com/vcsayt
 s3.us-east-1.amazonaws.com/vertexspace
 s3.us-east-1.amazonaws.com/writevc
+s3.us-east-1.amazonaws.com/z4fm
 s3.us-east-1.amazonaws.com/zoxh
 sagedesk.s3-external-1.amazonaws.com
 sagedesk.s3-external-2.amazonaws.com
@@ -1023,6 +1028,11 @@ writevc.s3-external-2.amazonaws.com
 writevc.s3.amazonaws.com
 writevc.s3.dualstack.us-east-1.amazonaws.com
 writevc.s3.us-east-1.amazonaws.com
+z4fm.s3-external-1.amazonaws.com
+z4fm.s3-external-2.amazonaws.com
+z4fm.s3.amazonaws.com
+z4fm.s3.dualstack.us-east-1.amazonaws.com
+z4fm.s3.us-east-1.amazonaws.com
 zoxh.s3-external-1.amazonaws.com
 zoxh.s3-external-2.amazonaws.com
 zoxh.s3.amazonaws.com
