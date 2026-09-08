@@ -1,4 +1,9 @@
 Domain
+7pfp.s3-external-1.amazonaws.com
+7pfp.s3-external-2.amazonaws.com
+7pfp.s3.amazonaws.com
+7pfp.s3.dualstack.us-east-1.amazonaws.com
+7pfp.s3.us-east-1.amazonaws.com
 a4cxjc3.s3-external-1.amazonaws.com
 a4cxjc3.s3-external-2.amazonaws.com
 a4cxjc3.s3.amazonaws.com
@@ -204,6 +209,11 @@ hpvtncl9.s3-external-2.amazonaws.com
 hpvtncl9.s3.amazonaws.com
 hpvtncl9.s3.dualstack.us-east-1.amazonaws.com
 hpvtncl9.s3.us-east-1.amazonaws.com
+hur0.s3-external-1.amazonaws.com
+hur0.s3-external-2.amazonaws.com
+hur0.s3.amazonaws.com
+hur0.s3.dualstack.us-east-1.amazonaws.com
+hur0.s3.us-east-1.amazonaws.com
 ilovecalc.s3-external-1.amazonaws.com
 ilovecalc.s3-external-2.amazonaws.com
 ilovecalc.s3.amazonaws.com
@@ -404,6 +414,7 @@ run3.s3-external-2.amazonaws.com
 run3.s3.amazonaws.com
 run3.s3.dualstack.us-east-1.amazonaws.com
 run3.s3.us-east-1.amazonaws.com
+s3-external-1.amazonaws.com/7pfp
 s3-external-1.amazonaws.com/a4cxjc3
 s3-external-1.amazonaws.com/angelfern
 s3-external-1.amazonaws.com/aphistory
@@ -444,6 +455,7 @@ s3-external-1.amazonaws.com/glwithfinals
 s3-external-1.amazonaws.com/gnsux
 s3-external-1.amazonaws.com/googleclass
 s3-external-1.amazonaws.com/hpvtncl9
+s3-external-1.amazonaws.com/hur0
 s3-external-1.amazonaws.com/ilovecalc
 s3-external-1.amazonaws.com/iloveliteratures
 s3-external-1.amazonaws.com/ilovemaths
@@ -502,6 +514,7 @@ s3-external-1.amazonaws.com/vcsayt
 s3-external-1.amazonaws.com/vertexspace
 s3-external-1.amazonaws.com/writevc
 s3-external-1.amazonaws.com/zoxh
+s3-external-2.amazonaws.com/7pfp
 s3-external-2.amazonaws.com/a4cxjc3
 s3-external-2.amazonaws.com/angelfern
 s3-external-2.amazonaws.com/aphistory
@@ -543,6 +556,7 @@ s3-external-2.amazonaws.com/glwithfinals
 s3-external-2.amazonaws.com/gnsux
 s3-external-2.amazonaws.com/googleclass
 s3-external-2.amazonaws.com/hpvtncl9
+s3-external-2.amazonaws.com/hur0
 s3-external-2.amazonaws.com/ilovecalc
 s3-external-2.amazonaws.com/iloveliteratures
 s3-external-2.amazonaws.com/ilovemaths
@@ -601,6 +615,7 @@ s3-external-2.amazonaws.com/vcsayt
 s3-external-2.amazonaws.com/vertexspace
 s3-external-2.amazonaws.com/writevc
 s3-external-2.amazonaws.com/zoxh
+s3.amazonaws.com/7pfp
 s3.amazonaws.com/a4cxjc3
 s3.amazonaws.com/angelfern
 s3.amazonaws.com/aphistory
@@ -642,6 +657,7 @@ s3.amazonaws.com/glwithfinals
 s3.amazonaws.com/gnsux
 s3.amazonaws.com/googleclass
 s3.amazonaws.com/hpvtncl9
+s3.amazonaws.com/hur0
 s3.amazonaws.com/ilovecalc
 s3.amazonaws.com/iloveliteratures
 s3.amazonaws.com/ilovemaths
@@ -700,6 +716,7 @@ s3.amazonaws.com/vcsayt
 s3.amazonaws.com/vertexspace
 s3.amazonaws.com/writevc
 s3.amazonaws.com/zoxh
+s3.dualstack.us-east-1.amazonaws.com/7pfp
 s3.dualstack.us-east-1.amazonaws.com/a4cxjc3
 s3.dualstack.us-east-1.amazonaws.com/angelfern
 s3.dualstack.us-east-1.amazonaws.com/aphistory
@@ -741,6 +758,7 @@ s3.dualstack.us-east-1.amazonaws.com/glwithfinals
 s3.dualstack.us-east-1.amazonaws.com/gnsux
 s3.dualstack.us-east-1.amazonaws.com/googleclass
 s3.dualstack.us-east-1.amazonaws.com/hpvtncl9
+s3.dualstack.us-east-1.amazonaws.com/hur0
 s3.dualstack.us-east-1.amazonaws.com/ilovecalc
 s3.dualstack.us-east-1.amazonaws.com/iloveliteratures
 s3.dualstack.us-east-1.amazonaws.com/ilovemaths
@@ -799,6 +817,7 @@ s3.dualstack.us-east-1.amazonaws.com/vcsayt
 s3.dualstack.us-east-1.amazonaws.com/vertexspace
 s3.dualstack.us-east-1.amazonaws.com/writevc
 s3.dualstack.us-east-1.amazonaws.com/zoxh
+s3.us-east-1.amazonaws.com/7pfp
 s3.us-east-1.amazonaws.com/a4cxjc3
 s3.us-east-1.amazonaws.com/angelfern
 s3.us-east-1.amazonaws.com/aphistory
@@ -840,6 +859,7 @@ s3.us-east-1.amazonaws.com/glwithfinals
 s3.us-east-1.amazonaws.com/gnsux
 s3.us-east-1.amazonaws.com/googleclass
 s3.us-east-1.amazonaws.com/hpvtncl9
+s3.us-east-1.amazonaws.com/hur0
 s3.us-east-1.amazonaws.com/ilovecalc
 s3.us-east-1.amazonaws.com/iloveliteratures
 s3.us-east-1.amazonaws.com/ilovemaths
