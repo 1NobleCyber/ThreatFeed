@@ -179,6 +179,11 @@ fsmath.s3-external-2.amazonaws.com
 fsmath.s3.amazonaws.com
 fsmath.s3.dualstack.us-east-1.amazonaws.com
 fsmath.s3.us-east-1.amazonaws.com
+fsou.s3-external-1.amazonaws.com
+fsou.s3-external-2.amazonaws.com
+fsou.s3.amazonaws.com
+fsou.s3.dualstack.us-east-1.amazonaws.com
+fsou.s3.us-east-1.amazonaws.com
 fsreading.s3-external-1.amazonaws.com
 fsreading.s3-external-2.amazonaws.com
 fsreading.s3.amazonaws.com
@@ -454,6 +459,7 @@ s3-external-1.amazonaws.com/driftwell
 s3-external-1.amazonaws.com/fernlinks
 s3-external-1.amazonaws.com/fernvcsa
 s3-external-1.amazonaws.com/finallybull
+s3-external-1.amazonaws.com/fsou
 s3-external-1.amazonaws.com/fsreading
 s3-external-1.amazonaws.com/fstudentsareinventors
 s3-external-1.amazonaws.com/glwithfinals
@@ -558,6 +564,7 @@ s3-external-2.amazonaws.com/fernlinks
 s3-external-2.amazonaws.com/fernvcsa
 s3-external-2.amazonaws.com/finallybull
 s3-external-2.amazonaws.com/fsmath
+s3-external-2.amazonaws.com/fsou
 s3-external-2.amazonaws.com/fsreading
 s3-external-2.amazonaws.com/fstudentsareinventors
 s3-external-2.amazonaws.com/glwithfinals
@@ -662,6 +669,7 @@ s3.amazonaws.com/fernlinks
 s3.amazonaws.com/fernvcsa
 s3.amazonaws.com/finallybull
 s3.amazonaws.com/fsmath
+s3.amazonaws.com/fsou
 s3.amazonaws.com/fsreading
 s3.amazonaws.com/fstudentsareinventors
 s3.amazonaws.com/glwithfinals
@@ -766,6 +774,7 @@ s3.dualstack.us-east-1.amazonaws.com/fernlinks
 s3.dualstack.us-east-1.amazonaws.com/fernvcsa
 s3.dualstack.us-east-1.amazonaws.com/finallybull
 s3.dualstack.us-east-1.amazonaws.com/fsmath
+s3.dualstack.us-east-1.amazonaws.com/fsou
 s3.dualstack.us-east-1.amazonaws.com/fsreading
 s3.dualstack.us-east-1.amazonaws.com/fstudentsareinventors
 s3.dualstack.us-east-1.amazonaws.com/glwithfinals
@@ -870,6 +879,7 @@ s3.us-east-1.amazonaws.com/fernlinks
 s3.us-east-1.amazonaws.com/fernvcsa
 s3.us-east-1.amazonaws.com/finallybull
 s3.us-east-1.amazonaws.com/fsmath
+s3.us-east-1.amazonaws.com/fsou
 s3.us-east-1.amazonaws.com/fsreading
 s3.us-east-1.amazonaws.com/fstudentsareinventors
 s3.us-east-1.amazonaws.com/glwithfinals
