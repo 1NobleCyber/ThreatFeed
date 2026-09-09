@@ -364,6 +364,11 @@ mathisgreataf.s3-external-2.amazonaws.com
 mathisgreataf.s3.amazonaws.com
 mathisgreataf.s3.dualstack.us-east-1.amazonaws.com
 mathisgreataf.s3.us-east-1.amazonaws.com
+mathshelp.s3-external-1.amazonaws.com
+mathshelp.s3-external-2.amazonaws.com
+mathshelp.s3.amazonaws.com
+mathshelp.s3.dualstack.us-east-1.amazonaws.com
+mathshelp.s3.us-east-1.amazonaws.com
 mathvc.s3-external-1.amazonaws.com
 mathvc.s3-external-2.amazonaws.com
 mathvc.s3.amazonaws.com
@@ -531,6 +536,7 @@ s3-external-1.amazonaws.com/macrologoat
 s3-external-1.amazonaws.com/macrolomath
 s3-external-1.amazonaws.com/mapleprep
 s3-external-1.amazonaws.com/mathisgreataf
+s3-external-1.amazonaws.com/mathshelp
 s3-external-1.amazonaws.com/mathvc
 s3-external-1.amazonaws.com/medf
 s3-external-1.amazonaws.com/memorising
@@ -645,6 +651,7 @@ s3-external-2.amazonaws.com/macrologoat
 s3-external-2.amazonaws.com/macrolomath
 s3-external-2.amazonaws.com/mapleprep
 s3-external-2.amazonaws.com/mathisgreataf
+s3-external-2.amazonaws.com/mathshelp
 s3-external-2.amazonaws.com/mathvc
 s3-external-2.amazonaws.com/medf
 s3-external-2.amazonaws.com/memorising
@@ -759,6 +766,7 @@ s3.amazonaws.com/macrologoat
 s3.amazonaws.com/macrolomath
 s3.amazonaws.com/mapleprep
 s3.amazonaws.com/mathisgreataf
+s3.amazonaws.com/mathshelp
 s3.amazonaws.com/mathvc
 s3.amazonaws.com/medf
 s3.amazonaws.com/memorising
@@ -873,6 +881,7 @@ s3.dualstack.us-east-1.amazonaws.com/macrologoat
 s3.dualstack.us-east-1.amazonaws.com/macrolomath
 s3.dualstack.us-east-1.amazonaws.com/mapleprep
 s3.dualstack.us-east-1.amazonaws.com/mathisgreataf
+s3.dualstack.us-east-1.amazonaws.com/mathshelp
 s3.dualstack.us-east-1.amazonaws.com/mathvc
 s3.dualstack.us-east-1.amazonaws.com/medf
 s3.dualstack.us-east-1.amazonaws.com/memorising
@@ -987,6 +996,7 @@ s3.us-east-1.amazonaws.com/macrologoat
 s3.us-east-1.amazonaws.com/macrolomath
 s3.us-east-1.amazonaws.com/mapleprep
 s3.us-east-1.amazonaws.com/mathisgreataf
+s3.us-east-1.amazonaws.com/mathshelp
 s3.us-east-1.amazonaws.com/mathvc
 s3.us-east-1.amazonaws.com/medf
 s3.us-east-1.amazonaws.com/memorising
