@@ -279,6 +279,11 @@ kiteduweb.s3-external-2.amazonaws.com
 kiteduweb.s3.amazonaws.com
 kiteduweb.s3.dualstack.us-east-1.amazonaws.com
 kiteduweb.s3.us-east-1.amazonaws.com
+leeshawn.s3-external-1.amazonaws.com
+leeshawn.s3-external-2.amazonaws.com
+leeshawn.s3.amazonaws.com
+leeshawn.s3.dualstack.us-east-1.amazonaws.com
+leeshawn.s3.us-east-1.amazonaws.com
 lessonbay.s3-external-1.amazonaws.com
 lessonbay.s3-external-2.amazonaws.com
 lessonbay.s3.amazonaws.com
@@ -354,6 +359,11 @@ mathvc.s3-external-2.amazonaws.com
 mathvc.s3.amazonaws.com
 mathvc.s3.dualstack.us-east-1.amazonaws.com
 mathvc.s3.us-east-1.amazonaws.com
+medf.s3-external-1.amazonaws.com
+medf.s3-external-2.amazonaws.com
+medf.s3.amazonaws.com
+medf.s3.dualstack.us-east-1.amazonaws.com
+medf.s3.us-east-1.amazonaws.com
 memorising.s3-external-1.amazonaws.com
 memorising.s3-external-2.amazonaws.com
 memorising.s3.amazonaws.com
@@ -489,6 +499,7 @@ s3-external-1.amazonaws.com/kitebrowser
 s3-external-1.amazonaws.com/kiteduapp
 s3-external-1.amazonaws.com/kitedumirror
 s3-external-1.amazonaws.com/kiteduweb
+s3-external-1.amazonaws.com/leeshawn
 s3-external-1.amazonaws.com/lessonbay
 s3-external-1.amazonaws.com/lgbq
 s3-external-1.amazonaws.com/lsrelay-a
@@ -504,6 +515,7 @@ s3-external-1.amazonaws.com/macrolomath
 s3-external-1.amazonaws.com/mapleprep
 s3-external-1.amazonaws.com/mathisgreataf
 s3-external-1.amazonaws.com/mathvc
+s3-external-1.amazonaws.com/medf
 s3-external-1.amazonaws.com/memorising
 s3-external-1.amazonaws.com/mistcalc
 s3-external-1.amazonaws.com/mistedu
@@ -597,6 +609,7 @@ s3-external-2.amazonaws.com/kitebrowser
 s3-external-2.amazonaws.com/kiteduapp
 s3-external-2.amazonaws.com/kitedumirror
 s3-external-2.amazonaws.com/kiteduweb
+s3-external-2.amazonaws.com/leeshawn
 s3-external-2.amazonaws.com/lessonbay
 s3-external-2.amazonaws.com/lgbq
 s3-external-2.amazonaws.com/lsrelay-a
@@ -612,6 +625,7 @@ s3-external-2.amazonaws.com/macrolomath
 s3-external-2.amazonaws.com/mapleprep
 s3-external-2.amazonaws.com/mathisgreataf
 s3-external-2.amazonaws.com/mathvc
+s3-external-2.amazonaws.com/medf
 s3-external-2.amazonaws.com/memorising
 s3-external-2.amazonaws.com/mistcalc
 s3-external-2.amazonaws.com/mistedu
@@ -705,6 +719,7 @@ s3.amazonaws.com/kitebrowser
 s3.amazonaws.com/kiteduapp
 s3.amazonaws.com/kitedumirror
 s3.amazonaws.com/kiteduweb
+s3.amazonaws.com/leeshawn
 s3.amazonaws.com/lessonbay
 s3.amazonaws.com/lgbq
 s3.amazonaws.com/lsrelay-a
@@ -720,6 +735,7 @@ s3.amazonaws.com/macrolomath
 s3.amazonaws.com/mapleprep
 s3.amazonaws.com/mathisgreataf
 s3.amazonaws.com/mathvc
+s3.amazonaws.com/medf
 s3.amazonaws.com/memorising
 s3.amazonaws.com/mistcalc
 s3.amazonaws.com/mistedu
@@ -813,6 +829,7 @@ s3.dualstack.us-east-1.amazonaws.com/kitebrowser
 s3.dualstack.us-east-1.amazonaws.com/kiteduapp
 s3.dualstack.us-east-1.amazonaws.com/kitedumirror
 s3.dualstack.us-east-1.amazonaws.com/kiteduweb
+s3.dualstack.us-east-1.amazonaws.com/leeshawn
 s3.dualstack.us-east-1.amazonaws.com/lessonbay
 s3.dualstack.us-east-1.amazonaws.com/lgbq
 s3.dualstack.us-east-1.amazonaws.com/lsrelay-a
@@ -828,6 +845,7 @@ s3.dualstack.us-east-1.amazonaws.com/macrolomath
 s3.dualstack.us-east-1.amazonaws.com/mapleprep
 s3.dualstack.us-east-1.amazonaws.com/mathisgreataf
 s3.dualstack.us-east-1.amazonaws.com/mathvc
+s3.dualstack.us-east-1.amazonaws.com/medf
 s3.dualstack.us-east-1.amazonaws.com/memorising
 s3.dualstack.us-east-1.amazonaws.com/mistcalc
 s3.dualstack.us-east-1.amazonaws.com/mistedu
@@ -921,6 +939,7 @@ s3.us-east-1.amazonaws.com/kitebrowser
 s3.us-east-1.amazonaws.com/kiteduapp
 s3.us-east-1.amazonaws.com/kitedumirror
 s3.us-east-1.amazonaws.com/kiteduweb
+s3.us-east-1.amazonaws.com/leeshawn
 s3.us-east-1.amazonaws.com/lessonbay
 s3.us-east-1.amazonaws.com/lgbq
 s3.us-east-1.amazonaws.com/lsrelay-a
@@ -936,6 +955,7 @@ s3.us-east-1.amazonaws.com/macrolomath
 s3.us-east-1.amazonaws.com/mapleprep
 s3.us-east-1.amazonaws.com/mathisgreataf
 s3.us-east-1.amazonaws.com/mathvc
+s3.us-east-1.amazonaws.com/medf
 s3.us-east-1.amazonaws.com/memorising
 s3.us-east-1.amazonaws.com/mistcalc
 s3.us-east-1.amazonaws.com/mistedu
