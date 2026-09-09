@@ -399,6 +399,11 @@ notegrove.s3-external-2.amazonaws.com
 notegrove.s3.amazonaws.com
 notegrove.s3.dualstack.us-east-1.amazonaws.com
 notegrove.s3.us-east-1.amazonaws.com
+oic4.s3-external-1.amazonaws.com
+oic4.s3-external-2.amazonaws.com
+oic4.s3.amazonaws.com
+oic4.s3.dualstack.us-east-1.amazonaws.com
+oic4.s3.us-east-1.amazonaws.com
 oiop.s3-external-1.amazonaws.com
 oiop.s3-external-2.amazonaws.com
 oiop.s3.amazonaws.com
@@ -523,6 +528,7 @@ s3-external-1.amazonaws.com/mistmac
 s3-external-1.amazonaws.com/mistmath
 s3-external-1.amazonaws.com/newyearnewfern
 s3-external-1.amazonaws.com/notegrove
+s3-external-1.amazonaws.com/oic4
 s3-external-1.amazonaws.com/oiop
 s3-external-1.amazonaws.com/onelastlink
 s3-external-1.amazonaws.com/physicsprep
@@ -633,6 +639,7 @@ s3-external-2.amazonaws.com/mistmac
 s3-external-2.amazonaws.com/mistmath
 s3-external-2.amazonaws.com/newyearnewfern
 s3-external-2.amazonaws.com/notegrove
+s3-external-2.amazonaws.com/oic4
 s3-external-2.amazonaws.com/oiop
 s3-external-2.amazonaws.com/onelastlink
 s3-external-2.amazonaws.com/physicsprep
@@ -743,6 +750,7 @@ s3.amazonaws.com/mistmac
 s3.amazonaws.com/mistmath
 s3.amazonaws.com/newyearnewfern
 s3.amazonaws.com/notegrove
+s3.amazonaws.com/oic4
 s3.amazonaws.com/oiop
 s3.amazonaws.com/onelastlink
 s3.amazonaws.com/physicsprep
@@ -853,6 +861,7 @@ s3.dualstack.us-east-1.amazonaws.com/mistmac
 s3.dualstack.us-east-1.amazonaws.com/mistmath
 s3.dualstack.us-east-1.amazonaws.com/newyearnewfern
 s3.dualstack.us-east-1.amazonaws.com/notegrove
+s3.dualstack.us-east-1.amazonaws.com/oic4
 s3.dualstack.us-east-1.amazonaws.com/oiop
 s3.dualstack.us-east-1.amazonaws.com/onelastlink
 s3.dualstack.us-east-1.amazonaws.com/physicsprep
@@ -963,6 +972,7 @@ s3.us-east-1.amazonaws.com/mistmac
 s3.us-east-1.amazonaws.com/mistmath
 s3.us-east-1.amazonaws.com/newyearnewfern
 s3.us-east-1.amazonaws.com/notegrove
+s3.us-east-1.amazonaws.com/oic4
 s3.us-east-1.amazonaws.com/oiop
 s3.us-east-1.amazonaws.com/onelastlink
 s3.us-east-1.amazonaws.com/physicsprep
