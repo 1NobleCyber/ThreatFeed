@@ -299,6 +299,11 @@ kiteduweb.s3-external-2.amazonaws.com
 kiteduweb.s3.amazonaws.com
 kiteduweb.s3.dualstack.us-east-1.amazonaws.com
 kiteduweb.s3.us-east-1.amazonaws.com
+kldh.s3-external-1.amazonaws.com
+kldh.s3-external-2.amazonaws.com
+kldh.s3.amazonaws.com
+kldh.s3.dualstack.us-east-1.amazonaws.com
+kldh.s3.us-east-1.amazonaws.com
 leeshawn.s3-external-1.amazonaws.com
 leeshawn.s3-external-2.amazonaws.com
 leeshawn.s3.amazonaws.com
@@ -543,6 +548,7 @@ s3-external-1.amazonaws.com/kitebrowser
 s3-external-1.amazonaws.com/kiteduapp
 s3-external-1.amazonaws.com/kitedumirror
 s3-external-1.amazonaws.com/kiteduweb
+s3-external-1.amazonaws.com/kldh
 s3-external-1.amazonaws.com/leeshawn
 s3-external-1.amazonaws.com/lessonbay
 s3-external-1.amazonaws.com/lgbq
@@ -662,6 +668,7 @@ s3-external-2.amazonaws.com/kitebrowser
 s3-external-2.amazonaws.com/kiteduapp
 s3-external-2.amazonaws.com/kitedumirror
 s3-external-2.amazonaws.com/kiteduweb
+s3-external-2.amazonaws.com/kldh
 s3-external-2.amazonaws.com/leeshawn
 s3-external-2.amazonaws.com/lessonbay
 s3-external-2.amazonaws.com/lgbq
@@ -781,6 +788,7 @@ s3.amazonaws.com/kitebrowser
 s3.amazonaws.com/kiteduapp
 s3.amazonaws.com/kitedumirror
 s3.amazonaws.com/kiteduweb
+s3.amazonaws.com/kldh
 s3.amazonaws.com/leeshawn
 s3.amazonaws.com/lessonbay
 s3.amazonaws.com/lgbq
@@ -900,6 +908,7 @@ s3.dualstack.us-east-1.amazonaws.com/kitebrowser
 s3.dualstack.us-east-1.amazonaws.com/kiteduapp
 s3.dualstack.us-east-1.amazonaws.com/kitedumirror
 s3.dualstack.us-east-1.amazonaws.com/kiteduweb
+s3.dualstack.us-east-1.amazonaws.com/kldh
 s3.dualstack.us-east-1.amazonaws.com/leeshawn
 s3.dualstack.us-east-1.amazonaws.com/lessonbay
 s3.dualstack.us-east-1.amazonaws.com/lgbq
@@ -1019,6 +1028,7 @@ s3.us-east-1.amazonaws.com/kitebrowser
 s3.us-east-1.amazonaws.com/kiteduapp
 s3.us-east-1.amazonaws.com/kitedumirror
 s3.us-east-1.amazonaws.com/kiteduweb
+s3.us-east-1.amazonaws.com/kldh
 s3.us-east-1.amazonaws.com/leeshawn
 s3.us-east-1.amazonaws.com/lessonbay
 s3.us-east-1.amazonaws.com/lgbq
