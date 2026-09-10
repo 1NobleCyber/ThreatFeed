@@ -9,6 +9,11 @@ a4cxjc3.s3-external-2.amazonaws.com
 a4cxjc3.s3.amazonaws.com
 a4cxjc3.s3.dualstack.us-east-1.amazonaws.com
 a4cxjc3.s3.us-east-1.amazonaws.com
+aether-education.s3-external-1.amazonaws.com
+aether-education.s3-external-2.amazonaws.com
+aether-education.s3.amazonaws.com
+aether-education.s3.dualstack.us-east-1.amazonaws.com
+aether-education.s3.us-east-1.amazonaws.com
 aether-schools.s3-external-1.amazonaws.com
 aether-schools.s3-external-2.amazonaws.com
 aether-schools.s3.amazonaws.com
@@ -511,6 +516,7 @@ ryzn.s3.dualstack.us-east-1.amazonaws.com
 ryzn.s3.us-east-1.amazonaws.com
 s3-external-1.amazonaws.com/7pfp
 s3-external-1.amazonaws.com/a4cxjc3
+s3-external-1.amazonaws.com/aether-education
 s3-external-1.amazonaws.com/aether-schools
 s3-external-1.amazonaws.com/angelfern
 s3-external-1.amazonaws.com/aphistory
@@ -619,6 +625,7 @@ s3-external-1.amazonaws.com/t53li04c
 s3-external-1.amazonaws.com/tbgn
 s3-external-1.amazonaws.com/tcgj
 s3-external-1.amazonaws.com/ti84
+s3-external-1.amazonaws.com/ticalculatoronline
 s3-external-1.amazonaws.com/ttbest
 s3-external-1.amazonaws.com/tungy
 s3-external-1.amazonaws.com/usekitedu
@@ -636,6 +643,7 @@ s3-external-1.amazonaws.com/z4fm
 s3-external-1.amazonaws.com/zoxh
 s3-external-2.amazonaws.com/7pfp
 s3-external-2.amazonaws.com/a4cxjc3
+s3-external-2.amazonaws.com/aether-education
 s3-external-2.amazonaws.com/aether-schools
 s3-external-2.amazonaws.com/angelfern
 s3-external-2.amazonaws.com/aphistory
@@ -745,6 +753,7 @@ s3-external-2.amazonaws.com/t53li04c
 s3-external-2.amazonaws.com/tbgn
 s3-external-2.amazonaws.com/tcgj
 s3-external-2.amazonaws.com/ti84
+s3-external-2.amazonaws.com/ticalculatoronline
 s3-external-2.amazonaws.com/ttbest
 s3-external-2.amazonaws.com/tungy
 s3-external-2.amazonaws.com/usekitedu
@@ -762,6 +771,7 @@ s3-external-2.amazonaws.com/z4fm
 s3-external-2.amazonaws.com/zoxh
 s3.amazonaws.com/7pfp
 s3.amazonaws.com/a4cxjc3
+s3.amazonaws.com/aether-education
 s3.amazonaws.com/aether-schools
 s3.amazonaws.com/angelfern
 s3.amazonaws.com/aphistory
@@ -871,6 +881,7 @@ s3.amazonaws.com/t53li04c
 s3.amazonaws.com/tbgn
 s3.amazonaws.com/tcgj
 s3.amazonaws.com/ti84
+s3.amazonaws.com/ticalculatoronline
 s3.amazonaws.com/ttbest
 s3.amazonaws.com/tungy
 s3.amazonaws.com/usekitedu
@@ -888,6 +899,7 @@ s3.amazonaws.com/z4fm
 s3.amazonaws.com/zoxh
 s3.dualstack.us-east-1.amazonaws.com/7pfp
 s3.dualstack.us-east-1.amazonaws.com/a4cxjc3
+s3.dualstack.us-east-1.amazonaws.com/aether-education
 s3.dualstack.us-east-1.amazonaws.com/aether-schools
 s3.dualstack.us-east-1.amazonaws.com/angelfern
 s3.dualstack.us-east-1.amazonaws.com/aphistory
@@ -997,6 +1009,7 @@ s3.dualstack.us-east-1.amazonaws.com/t53li04c
 s3.dualstack.us-east-1.amazonaws.com/tbgn
 s3.dualstack.us-east-1.amazonaws.com/tcgj
 s3.dualstack.us-east-1.amazonaws.com/ti84
+s3.dualstack.us-east-1.amazonaws.com/ticalculatoronline
 s3.dualstack.us-east-1.amazonaws.com/ttbest
 s3.dualstack.us-east-1.amazonaws.com/tungy
 s3.dualstack.us-east-1.amazonaws.com/usekitedu
@@ -1014,6 +1027,7 @@ s3.dualstack.us-east-1.amazonaws.com/z4fm
 s3.dualstack.us-east-1.amazonaws.com/zoxh
 s3.us-east-1.amazonaws.com/7pfp
 s3.us-east-1.amazonaws.com/a4cxjc3
+s3.us-east-1.amazonaws.com/aether-education
 s3.us-east-1.amazonaws.com/aether-schools
 s3.us-east-1.amazonaws.com/angelfern
 s3.us-east-1.amazonaws.com/aphistory
@@ -1123,6 +1137,7 @@ s3.us-east-1.amazonaws.com/t53li04c
 s3.us-east-1.amazonaws.com/tbgn
 s3.us-east-1.amazonaws.com/tcgj
 s3.us-east-1.amazonaws.com/ti84
+s3.us-east-1.amazonaws.com/ticalculatoronline
 s3.us-east-1.amazonaws.com/ttbest
 s3.us-east-1.amazonaws.com/tungy
 s3.us-east-1.amazonaws.com/usekitedu
@@ -1183,6 +1198,11 @@ ti84.s3-external-2.amazonaws.com
 ti84.s3.amazonaws.com
 ti84.s3.dualstack.us-east-1.amazonaws.com
 ti84.s3.us-east-1.amazonaws.com
+ticalculatoronline.s3-external-1.amazonaws.com
+ticalculatoronline.s3-external-2.amazonaws.com
+ticalculatoronline.s3.amazonaws.com
+ticalculatoronline.s3.dualstack.us-east-1.amazonaws.com
+ticalculatoronline.s3.us-east-1.amazonaws.com
 ttbest.s3-external-1.amazonaws.com
 ttbest.s3-external-2.amazonaws.com
 ttbest.s3.amazonaws.com
