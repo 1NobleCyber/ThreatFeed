@@ -169,6 +169,11 @@ fernvcsa.s3-external-2.amazonaws.com
 fernvcsa.s3.amazonaws.com
 fernvcsa.s3.dualstack.us-east-1.amazonaws.com
 fernvcsa.s3.us-east-1.amazonaws.com
+fhyd.s3-external-1.amazonaws.com
+fhyd.s3-external-2.amazonaws.com
+fhyd.s3.amazonaws.com
+fhyd.s3.dualstack.us-east-1.amazonaws.com
+fhyd.s3.us-east-1.amazonaws.com
 finallybull.s3-external-1.amazonaws.com
 finallybull.s3-external-2.amazonaws.com
 finallybull.s3.amazonaws.com
@@ -513,6 +518,7 @@ s3-external-1.amazonaws.com/deltamath-demo
 s3-external-1.amazonaws.com/driftwell
 s3-external-1.amazonaws.com/fernlinks
 s3-external-1.amazonaws.com/fernvcsa
+s3-external-1.amazonaws.com/fhyd
 s3-external-1.amazonaws.com/finallybull
 s3-external-1.amazonaws.com/fsou
 s3-external-1.amazonaws.com/fsreading
@@ -630,6 +636,7 @@ s3-external-2.amazonaws.com/deltamath-demo
 s3-external-2.amazonaws.com/driftwell
 s3-external-2.amazonaws.com/fernlinks
 s3-external-2.amazonaws.com/fernvcsa
+s3-external-2.amazonaws.com/fhyd
 s3-external-2.amazonaws.com/finallybull
 s3-external-2.amazonaws.com/fsmath
 s3-external-2.amazonaws.com/fsou
@@ -748,6 +755,7 @@ s3.amazonaws.com/deltamath-demo
 s3.amazonaws.com/driftwell
 s3.amazonaws.com/fernlinks
 s3.amazonaws.com/fernvcsa
+s3.amazonaws.com/fhyd
 s3.amazonaws.com/finallybull
 s3.amazonaws.com/fsmath
 s3.amazonaws.com/fsou
@@ -866,6 +874,7 @@ s3.dualstack.us-east-1.amazonaws.com/deltamath-demo
 s3.dualstack.us-east-1.amazonaws.com/driftwell
 s3.dualstack.us-east-1.amazonaws.com/fernlinks
 s3.dualstack.us-east-1.amazonaws.com/fernvcsa
+s3.dualstack.us-east-1.amazonaws.com/fhyd
 s3.dualstack.us-east-1.amazonaws.com/finallybull
 s3.dualstack.us-east-1.amazonaws.com/fsmath
 s3.dualstack.us-east-1.amazonaws.com/fsou
@@ -984,6 +993,7 @@ s3.us-east-1.amazonaws.com/deltamath-demo
 s3.us-east-1.amazonaws.com/driftwell
 s3.us-east-1.amazonaws.com/fernlinks
 s3.us-east-1.amazonaws.com/fernvcsa
+s3.us-east-1.amazonaws.com/fhyd
 s3.us-east-1.amazonaws.com/finallybull
 s3.us-east-1.amazonaws.com/fsmath
 s3.us-east-1.amazonaws.com/fsou
