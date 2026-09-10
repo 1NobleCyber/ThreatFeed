@@ -592,6 +592,7 @@ s3-external-1.amazonaws.com/schoolsucks
 s3-external-1.amazonaws.com/slantsite
 s3-external-1.amazonaws.com/subtobull
 s3-external-1.amazonaws.com/t53li04c
+s3-external-1.amazonaws.com/tbgn
 s3-external-1.amazonaws.com/tcgj
 s3-external-1.amazonaws.com/ttbest
 s3-external-1.amazonaws.com/tungy
@@ -712,6 +713,7 @@ s3-external-2.amazonaws.com/schoolsucks
 s3-external-2.amazonaws.com/slantsite
 s3-external-2.amazonaws.com/subtobull
 s3-external-2.amazonaws.com/t53li04c
+s3-external-2.amazonaws.com/tbgn
 s3-external-2.amazonaws.com/tcgj
 s3-external-2.amazonaws.com/ttbest
 s3-external-2.amazonaws.com/tungy
@@ -832,6 +834,7 @@ s3.amazonaws.com/schoolsucks
 s3.amazonaws.com/slantsite
 s3.amazonaws.com/subtobull
 s3.amazonaws.com/t53li04c
+s3.amazonaws.com/tbgn
 s3.amazonaws.com/tcgj
 s3.amazonaws.com/ttbest
 s3.amazonaws.com/tungy
@@ -952,6 +955,7 @@ s3.dualstack.us-east-1.amazonaws.com/schoolsucks
 s3.dualstack.us-east-1.amazonaws.com/slantsite
 s3.dualstack.us-east-1.amazonaws.com/subtobull
 s3.dualstack.us-east-1.amazonaws.com/t53li04c
+s3.dualstack.us-east-1.amazonaws.com/tbgn
 s3.dualstack.us-east-1.amazonaws.com/tcgj
 s3.dualstack.us-east-1.amazonaws.com/ttbest
 s3.dualstack.us-east-1.amazonaws.com/tungy
@@ -1072,6 +1076,7 @@ s3.us-east-1.amazonaws.com/schoolsucks
 s3.us-east-1.amazonaws.com/slantsite
 s3.us-east-1.amazonaws.com/subtobull
 s3.us-east-1.amazonaws.com/t53li04c
+s3.us-east-1.amazonaws.com/tbgn
 s3.us-east-1.amazonaws.com/tcgj
 s3.us-east-1.amazonaws.com/ttbest
 s3.us-east-1.amazonaws.com/tungy
@@ -1118,6 +1123,11 @@ t53li04c.s3-external-2.amazonaws.com
 t53li04c.s3.amazonaws.com
 t53li04c.s3.dualstack.us-east-1.amazonaws.com
 t53li04c.s3.us-east-1.amazonaws.com
+tbgn.s3-external-1.amazonaws.com
+tbgn.s3-external-2.amazonaws.com
+tbgn.s3.amazonaws.com
+tbgn.s3.dualstack.us-east-1.amazonaws.com
+tbgn.s3.us-east-1.amazonaws.com
 tcgj.s3-external-1.amazonaws.com
 tcgj.s3-external-2.amazonaws.com
 tcgj.s3.amazonaws.com
