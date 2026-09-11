@@ -29,6 +29,11 @@ aphistory.s3-external-2.amazonaws.com
 aphistory.s3.amazonaws.com
 aphistory.s3.dualstack.us-east-1.amazonaws.com
 aphistory.s3.us-east-1.amazonaws.com
+appsych.s3-external-1.amazonaws.com
+appsych.s3-external-2.amazonaws.com
+appsych.s3.amazonaws.com
+appsych.s3.dualstack.us-east-1.amazonaws.com
+appsych.s3.us-east-1.amazonaws.com
 b7u6.s3-external-1.amazonaws.com
 b7u6.s3-external-2.amazonaws.com
 b7u6.s3.amazonaws.com
@@ -555,6 +560,7 @@ s3-external-1.amazonaws.com/aether-education
 s3-external-1.amazonaws.com/aether-schools
 s3-external-1.amazonaws.com/angelfern
 s3-external-1.amazonaws.com/aphistory
+s3-external-1.amazonaws.com/appsych
 s3-external-1.amazonaws.com/b7u6
 s3-external-1.amazonaws.com/bestgamelol
 s3-external-1.amazonaws.com/brightloft
@@ -692,6 +698,7 @@ s3-external-2.amazonaws.com/aether-education
 s3-external-2.amazonaws.com/aether-schools
 s3-external-2.amazonaws.com/angelfern
 s3-external-2.amazonaws.com/aphistory
+s3-external-2.amazonaws.com/appsych
 s3-external-2.amazonaws.com/b7u6
 s3-external-2.amazonaws.com/bestgamelol
 s3-external-2.amazonaws.com/brightloft
@@ -830,6 +837,7 @@ s3.amazonaws.com/aether-education
 s3.amazonaws.com/aether-schools
 s3.amazonaws.com/angelfern
 s3.amazonaws.com/aphistory
+s3.amazonaws.com/appsych
 s3.amazonaws.com/b7u6
 s3.amazonaws.com/bestgamelol
 s3.amazonaws.com/brightloft
@@ -968,6 +976,7 @@ s3.dualstack.us-east-1.amazonaws.com/aether-education
 s3.dualstack.us-east-1.amazonaws.com/aether-schools
 s3.dualstack.us-east-1.amazonaws.com/angelfern
 s3.dualstack.us-east-1.amazonaws.com/aphistory
+s3.dualstack.us-east-1.amazonaws.com/appsych
 s3.dualstack.us-east-1.amazonaws.com/b7u6
 s3.dualstack.us-east-1.amazonaws.com/bestgamelol
 s3.dualstack.us-east-1.amazonaws.com/brightloft
@@ -1106,6 +1115,7 @@ s3.us-east-1.amazonaws.com/aether-education
 s3.us-east-1.amazonaws.com/aether-schools
 s3.us-east-1.amazonaws.com/angelfern
 s3.us-east-1.amazonaws.com/aphistory
+s3.us-east-1.amazonaws.com/appsych
 s3.us-east-1.amazonaws.com/b7u6
 s3.us-east-1.amazonaws.com/bestgamelol
 s3.us-east-1.amazonaws.com/brightloft
