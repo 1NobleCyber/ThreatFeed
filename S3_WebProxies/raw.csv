@@ -349,6 +349,11 @@ lessonbay.s3-external-2.amazonaws.com
 lessonbay.s3.amazonaws.com
 lessonbay.s3.dualstack.us-east-1.amazonaws.com
 lessonbay.s3.us-east-1.amazonaws.com
+lessonpadweb.s3-external-1.amazonaws.com
+lessonpadweb.s3-external-2.amazonaws.com
+lessonpadweb.s3.amazonaws.com
+lessonpadweb.s3.dualstack.us-east-1.amazonaws.com
+lessonpadweb.s3.us-east-1.amazonaws.com
 lgbq.s3-external-1.amazonaws.com
 lgbq.s3-external-2.amazonaws.com
 lgbq.s3.amazonaws.com
@@ -613,6 +618,7 @@ s3-external-1.amazonaws.com/kitepr0xy
 s3-external-1.amazonaws.com/kldh
 s3-external-1.amazonaws.com/leeshawn
 s3-external-1.amazonaws.com/lessonbay
+s3-external-1.amazonaws.com/lessonpadweb
 s3-external-1.amazonaws.com/lgbq
 s3-external-1.amazonaws.com/lsrelay-1
 s3-external-1.amazonaws.com/lsrelay-a
@@ -749,6 +755,7 @@ s3-external-2.amazonaws.com/kitepr0xy
 s3-external-2.amazonaws.com/kldh
 s3-external-2.amazonaws.com/leeshawn
 s3-external-2.amazonaws.com/lessonbay
+s3-external-2.amazonaws.com/lessonpadweb
 s3-external-2.amazonaws.com/lgbq
 s3-external-2.amazonaws.com/lsrelay-1
 s3-external-2.amazonaws.com/lsrelay-a
@@ -885,6 +892,7 @@ s3.amazonaws.com/kitepr0xy
 s3.amazonaws.com/kldh
 s3.amazonaws.com/leeshawn
 s3.amazonaws.com/lessonbay
+s3.amazonaws.com/lessonpadweb
 s3.amazonaws.com/lgbq
 s3.amazonaws.com/lsrelay-1
 s3.amazonaws.com/lsrelay-a
@@ -1021,6 +1029,7 @@ s3.dualstack.us-east-1.amazonaws.com/kitepr0xy
 s3.dualstack.us-east-1.amazonaws.com/kldh
 s3.dualstack.us-east-1.amazonaws.com/leeshawn
 s3.dualstack.us-east-1.amazonaws.com/lessonbay
+s3.dualstack.us-east-1.amazonaws.com/lessonpadweb
 s3.dualstack.us-east-1.amazonaws.com/lgbq
 s3.dualstack.us-east-1.amazonaws.com/lsrelay-1
 s3.dualstack.us-east-1.amazonaws.com/lsrelay-a
@@ -1157,6 +1166,7 @@ s3.us-east-1.amazonaws.com/kitepr0xy
 s3.us-east-1.amazonaws.com/kldh
 s3.us-east-1.amazonaws.com/leeshawn
 s3.us-east-1.amazonaws.com/lessonbay
+s3.us-east-1.amazonaws.com/lessonpadweb
 s3.us-east-1.amazonaws.com/lgbq
 s3.us-east-1.amazonaws.com/lsrelay-1
 s3.us-east-1.amazonaws.com/lsrelay-a
