@@ -656,6 +656,7 @@ s3-external-1.amazonaws.com/sagedesk
 s3-external-1.amazonaws.com/scholardesk
 s3-external-1.amazonaws.com/schoolsucks
 s3-external-1.amazonaws.com/slantsite
+s3-external-1.amazonaws.com/studypadapp
 s3-external-1.amazonaws.com/subtobull
 s3-external-1.amazonaws.com/t53li04c
 s3-external-1.amazonaws.com/tbgn
@@ -791,6 +792,7 @@ s3-external-2.amazonaws.com/sagedesk
 s3-external-2.amazonaws.com/scholardesk
 s3-external-2.amazonaws.com/schoolsucks
 s3-external-2.amazonaws.com/slantsite
+s3-external-2.amazonaws.com/studypadapp
 s3-external-2.amazonaws.com/subtobull
 s3-external-2.amazonaws.com/t53li04c
 s3-external-2.amazonaws.com/tbgn
@@ -926,6 +928,7 @@ s3.amazonaws.com/sagedesk
 s3.amazonaws.com/scholardesk
 s3.amazonaws.com/schoolsucks
 s3.amazonaws.com/slantsite
+s3.amazonaws.com/studypadapp
 s3.amazonaws.com/subtobull
 s3.amazonaws.com/t53li04c
 s3.amazonaws.com/tbgn
@@ -1061,6 +1064,7 @@ s3.dualstack.us-east-1.amazonaws.com/sagedesk
 s3.dualstack.us-east-1.amazonaws.com/scholardesk
 s3.dualstack.us-east-1.amazonaws.com/schoolsucks
 s3.dualstack.us-east-1.amazonaws.com/slantsite
+s3.dualstack.us-east-1.amazonaws.com/studypadapp
 s3.dualstack.us-east-1.amazonaws.com/subtobull
 s3.dualstack.us-east-1.amazonaws.com/t53li04c
 s3.dualstack.us-east-1.amazonaws.com/tbgn
@@ -1196,6 +1200,7 @@ s3.us-east-1.amazonaws.com/sagedesk
 s3.us-east-1.amazonaws.com/scholardesk
 s3.us-east-1.amazonaws.com/schoolsucks
 s3.us-east-1.amazonaws.com/slantsite
+s3.us-east-1.amazonaws.com/studypadapp
 s3.us-east-1.amazonaws.com/subtobull
 s3.us-east-1.amazonaws.com/t53li04c
 s3.us-east-1.amazonaws.com/tbgn
@@ -1238,6 +1243,11 @@ slantsite.s3-external-2.amazonaws.com
 slantsite.s3.amazonaws.com
 slantsite.s3.dualstack.us-east-1.amazonaws.com
 slantsite.s3.us-east-1.amazonaws.com
+studypadapp.s3-external-1.amazonaws.com
+studypadapp.s3-external-2.amazonaws.com
+studypadapp.s3.amazonaws.com
+studypadapp.s3.dualstack.us-east-1.amazonaws.com
+studypadapp.s3.us-east-1.amazonaws.com
 subtobull.s3-external-1.amazonaws.com
 subtobull.s3-external-2.amazonaws.com
 subtobull.s3.amazonaws.com
