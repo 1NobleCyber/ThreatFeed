@@ -670,6 +670,7 @@ s3-external-1.amazonaws.com/readvc
 s3-external-1.amazonaws.com/rtnm
 s3-external-1.amazonaws.com/run3
 s3-external-1.amazonaws.com/ryzn
+s3-external-1.amazonaws.com/s3ef
 s3-external-1.amazonaws.com/sagedesk
 s3-external-1.amazonaws.com/scholardesk
 s3-external-1.amazonaws.com/scholarnook
@@ -695,6 +696,7 @@ s3-external-1.amazonaws.com/vcsareading
 s3-external-1.amazonaws.com/vcsayt
 s3-external-1.amazonaws.com/vellaa
 s3-external-1.amazonaws.com/vertexspace
+s3-external-1.amazonaws.com/wcfg
 s3-external-1.amazonaws.com/writevc
 s3-external-1.amazonaws.com/z4fm
 s3-external-1.amazonaws.com/zkvp
@@ -811,6 +813,7 @@ s3-external-2.amazonaws.com/readvc
 s3-external-2.amazonaws.com/rtnm
 s3-external-2.amazonaws.com/run3
 s3-external-2.amazonaws.com/ryzn
+s3-external-2.amazonaws.com/s3ef
 s3-external-2.amazonaws.com/sagedesk
 s3-external-2.amazonaws.com/scholardesk
 s3-external-2.amazonaws.com/scholarnook
@@ -836,6 +839,7 @@ s3-external-2.amazonaws.com/vcsareading
 s3-external-2.amazonaws.com/vcsayt
 s3-external-2.amazonaws.com/vellaa
 s3-external-2.amazonaws.com/vertexspace
+s3-external-2.amazonaws.com/wcfg
 s3-external-2.amazonaws.com/writevc
 s3-external-2.amazonaws.com/z4fm
 s3-external-2.amazonaws.com/zkvp
@@ -952,6 +956,7 @@ s3.amazonaws.com/readvc
 s3.amazonaws.com/rtnm
 s3.amazonaws.com/run3
 s3.amazonaws.com/ryzn
+s3.amazonaws.com/s3ef
 s3.amazonaws.com/sagedesk
 s3.amazonaws.com/scholardesk
 s3.amazonaws.com/scholarnook
@@ -977,6 +982,7 @@ s3.amazonaws.com/vcsareading
 s3.amazonaws.com/vcsayt
 s3.amazonaws.com/vellaa
 s3.amazonaws.com/vertexspace
+s3.amazonaws.com/wcfg
 s3.amazonaws.com/writevc
 s3.amazonaws.com/z4fm
 s3.amazonaws.com/zkvp
@@ -1093,6 +1099,7 @@ s3.dualstack.us-east-1.amazonaws.com/readvc
 s3.dualstack.us-east-1.amazonaws.com/rtnm
 s3.dualstack.us-east-1.amazonaws.com/run3
 s3.dualstack.us-east-1.amazonaws.com/ryzn
+s3.dualstack.us-east-1.amazonaws.com/s3ef
 s3.dualstack.us-east-1.amazonaws.com/sagedesk
 s3.dualstack.us-east-1.amazonaws.com/scholardesk
 s3.dualstack.us-east-1.amazonaws.com/scholarnook
@@ -1118,6 +1125,7 @@ s3.dualstack.us-east-1.amazonaws.com/vcsareading
 s3.dualstack.us-east-1.amazonaws.com/vcsayt
 s3.dualstack.us-east-1.amazonaws.com/vellaa
 s3.dualstack.us-east-1.amazonaws.com/vertexspace
+s3.dualstack.us-east-1.amazonaws.com/wcfg
 s3.dualstack.us-east-1.amazonaws.com/writevc
 s3.dualstack.us-east-1.amazonaws.com/z4fm
 s3.dualstack.us-east-1.amazonaws.com/zkvp
@@ -1234,6 +1242,7 @@ s3.us-east-1.amazonaws.com/readvc
 s3.us-east-1.amazonaws.com/rtnm
 s3.us-east-1.amazonaws.com/run3
 s3.us-east-1.amazonaws.com/ryzn
+s3.us-east-1.amazonaws.com/s3ef
 s3.us-east-1.amazonaws.com/sagedesk
 s3.us-east-1.amazonaws.com/scholardesk
 s3.us-east-1.amazonaws.com/scholarnook
@@ -1259,10 +1268,16 @@ s3.us-east-1.amazonaws.com/vcsareading
 s3.us-east-1.amazonaws.com/vcsayt
 s3.us-east-1.amazonaws.com/vellaa
 s3.us-east-1.amazonaws.com/vertexspace
+s3.us-east-1.amazonaws.com/wcfg
 s3.us-east-1.amazonaws.com/writevc
 s3.us-east-1.amazonaws.com/z4fm
 s3.us-east-1.amazonaws.com/zkvp
 s3.us-east-1.amazonaws.com/zoxh
+s3ef.s3-external-1.amazonaws.com
+s3ef.s3-external-2.amazonaws.com
+s3ef.s3.amazonaws.com
+s3ef.s3.dualstack.us-east-1.amazonaws.com
+s3ef.s3.us-east-1.amazonaws.com
 sagedesk.s3-external-1.amazonaws.com
 sagedesk.s3-external-2.amazonaws.com
 sagedesk.s3.amazonaws.com
@@ -1388,6 +1403,11 @@ vertexspace.s3-external-2.amazonaws.com
 vertexspace.s3.amazonaws.com
 vertexspace.s3.dualstack.us-east-1.amazonaws.com
 vertexspace.s3.us-east-1.amazonaws.com
+wcfg.s3-external-1.amazonaws.com
+wcfg.s3-external-2.amazonaws.com
+wcfg.s3.amazonaws.com
+wcfg.s3.dualstack.us-east-1.amazonaws.com
+wcfg.s3.us-east-1.amazonaws.com
 writevc.s3-external-1.amazonaws.com
 writevc.s3-external-2.amazonaws.com
 writevc.s3.amazonaws.com
