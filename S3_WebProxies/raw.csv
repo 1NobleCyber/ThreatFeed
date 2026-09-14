@@ -154,6 +154,11 @@ christopher2u.s3-external-2.amazonaws.com
 christopher2u.s3.amazonaws.com
 christopher2u.s3.dualstack.us-east-1.amazonaws.com
 christopher2u.s3.us-east-1.amazonaws.com
+ckat.s3-external-1.amazonaws.com
+ckat.s3-external-2.amazonaws.com
+ckat.s3.amazonaws.com
+ckat.s3.dualstack.us-east-1.amazonaws.com
+ckat.s3.us-east-1.amazonaws.com
 cleverlearning.s3-external-1.amazonaws.com
 cleverlearning.s3-external-2.amazonaws.com
 cleverlearning.s3.amazonaws.com
@@ -214,6 +219,11 @@ fstudentsareinventors.s3-external-2.amazonaws.com
 fstudentsareinventors.s3.amazonaws.com
 fstudentsareinventors.s3.dualstack.us-east-1.amazonaws.com
 fstudentsareinventors.s3.us-east-1.amazonaws.com
+fur2.s3-external-1.amazonaws.com
+fur2.s3-external-2.amazonaws.com
+fur2.s3.amazonaws.com
+fur2.s3.dualstack.us-east-1.amazonaws.com
+fur2.s3.us-east-1.amazonaws.com
 gfdd.s3-external-1.amazonaws.com
 gfdd.s3-external-2.amazonaws.com
 gfdd.s3.amazonaws.com
@@ -590,6 +600,7 @@ s3-external-1.amazonaws.com/cedarlearn
 s3-external-1.amazonaws.com/cherrisux
 s3-external-1.amazonaws.com/christopher2
 s3-external-1.amazonaws.com/christopher2u
+s3-external-1.amazonaws.com/ckat
 s3-external-1.amazonaws.com/cleverlearning
 s3-external-1.amazonaws.com/deaganfern
 s3-external-1.amazonaws.com/deltamath-demo
@@ -601,6 +612,7 @@ s3-external-1.amazonaws.com/finallybull
 s3-external-1.amazonaws.com/fsou
 s3-external-1.amazonaws.com/fsreading
 s3-external-1.amazonaws.com/fstudentsareinventors
+s3-external-1.amazonaws.com/fur2
 s3-external-1.amazonaws.com/gfdd
 s3-external-1.amazonaws.com/glwithfinals
 s3-external-1.amazonaws.com/gnsux
@@ -732,6 +744,7 @@ s3-external-2.amazonaws.com/cedarlearn
 s3-external-2.amazonaws.com/cherrisux
 s3-external-2.amazonaws.com/christopher2
 s3-external-2.amazonaws.com/christopher2u
+s3-external-2.amazonaws.com/ckat
 s3-external-2.amazonaws.com/cleverlearning
 s3-external-2.amazonaws.com/deaganfern
 s3-external-2.amazonaws.com/deltamath-demo
@@ -744,6 +757,7 @@ s3-external-2.amazonaws.com/fsmath
 s3-external-2.amazonaws.com/fsou
 s3-external-2.amazonaws.com/fsreading
 s3-external-2.amazonaws.com/fstudentsareinventors
+s3-external-2.amazonaws.com/fur2
 s3-external-2.amazonaws.com/gfdd
 s3-external-2.amazonaws.com/glwithfinals
 s3-external-2.amazonaws.com/gnsux
@@ -875,6 +889,7 @@ s3.amazonaws.com/cedarlearn
 s3.amazonaws.com/cherrisux
 s3.amazonaws.com/christopher2
 s3.amazonaws.com/christopher2u
+s3.amazonaws.com/ckat
 s3.amazonaws.com/cleverlearning
 s3.amazonaws.com/deaganfern
 s3.amazonaws.com/deltamath-demo
@@ -887,6 +902,7 @@ s3.amazonaws.com/fsmath
 s3.amazonaws.com/fsou
 s3.amazonaws.com/fsreading
 s3.amazonaws.com/fstudentsareinventors
+s3.amazonaws.com/fur2
 s3.amazonaws.com/gfdd
 s3.amazonaws.com/glwithfinals
 s3.amazonaws.com/gnsux
@@ -1018,6 +1034,7 @@ s3.dualstack.us-east-1.amazonaws.com/cedarlearn
 s3.dualstack.us-east-1.amazonaws.com/cherrisux
 s3.dualstack.us-east-1.amazonaws.com/christopher2
 s3.dualstack.us-east-1.amazonaws.com/christopher2u
+s3.dualstack.us-east-1.amazonaws.com/ckat
 s3.dualstack.us-east-1.amazonaws.com/cleverlearning
 s3.dualstack.us-east-1.amazonaws.com/deaganfern
 s3.dualstack.us-east-1.amazonaws.com/deltamath-demo
@@ -1030,6 +1047,7 @@ s3.dualstack.us-east-1.amazonaws.com/fsmath
 s3.dualstack.us-east-1.amazonaws.com/fsou
 s3.dualstack.us-east-1.amazonaws.com/fsreading
 s3.dualstack.us-east-1.amazonaws.com/fstudentsareinventors
+s3.dualstack.us-east-1.amazonaws.com/fur2
 s3.dualstack.us-east-1.amazonaws.com/gfdd
 s3.dualstack.us-east-1.amazonaws.com/glwithfinals
 s3.dualstack.us-east-1.amazonaws.com/gnsux
@@ -1161,6 +1179,7 @@ s3.us-east-1.amazonaws.com/cedarlearn
 s3.us-east-1.amazonaws.com/cherrisux
 s3.us-east-1.amazonaws.com/christopher2
 s3.us-east-1.amazonaws.com/christopher2u
+s3.us-east-1.amazonaws.com/ckat
 s3.us-east-1.amazonaws.com/cleverlearning
 s3.us-east-1.amazonaws.com/deaganfern
 s3.us-east-1.amazonaws.com/deltamath-demo
@@ -1173,6 +1192,7 @@ s3.us-east-1.amazonaws.com/fsmath
 s3.us-east-1.amazonaws.com/fsou
 s3.us-east-1.amazonaws.com/fsreading
 s3.us-east-1.amazonaws.com/fstudentsareinventors
+s3.us-east-1.amazonaws.com/fur2
 s3.us-east-1.amazonaws.com/gfdd
 s3.us-east-1.amazonaws.com/glwithfinals
 s3.us-east-1.amazonaws.com/gnsux
