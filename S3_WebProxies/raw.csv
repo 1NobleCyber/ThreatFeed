@@ -304,6 +304,11 @@ ixlsucks.s3-external-2.amazonaws.com
 ixlsucks.s3.amazonaws.com
 ixlsucks.s3.dualstack.us-east-1.amazonaws.com
 ixlsucks.s3.us-east-1.amazonaws.com
+j2zp.s3-external-1.amazonaws.com
+j2zp.s3-external-2.amazonaws.com
+j2zp.s3.amazonaws.com
+j2zp.s3.dualstack.us-east-1.amazonaws.com
+j2zp.s3.us-east-1.amazonaws.com
 jhds.s3-external-1.amazonaws.com
 jhds.s3-external-2.amazonaws.com
 jhds.s3.amazonaws.com
@@ -634,6 +639,7 @@ s3-external-1.amazonaws.com/ilovemaths
 s3-external-1.amazonaws.com/ironsnout
 s3-external-1.amazonaws.com/iuyt
 s3-external-1.amazonaws.com/ixlsucks
+s3-external-1.amazonaws.com/j2zp
 s3-external-1.amazonaws.com/jhds
 s3-external-1.amazonaws.com/jknb
 s3-external-1.amazonaws.com/jkss
@@ -780,6 +786,7 @@ s3-external-2.amazonaws.com/ilovemaths
 s3-external-2.amazonaws.com/ironsnout
 s3-external-2.amazonaws.com/iuyt
 s3-external-2.amazonaws.com/ixlsucks
+s3-external-2.amazonaws.com/j2zp
 s3-external-2.amazonaws.com/jhds
 s3-external-2.amazonaws.com/jknb
 s3-external-2.amazonaws.com/jkss
@@ -926,6 +933,7 @@ s3.amazonaws.com/ilovemaths
 s3.amazonaws.com/ironsnout
 s3.amazonaws.com/iuyt
 s3.amazonaws.com/ixlsucks
+s3.amazonaws.com/j2zp
 s3.amazonaws.com/jhds
 s3.amazonaws.com/jknb
 s3.amazonaws.com/jkss
@@ -1072,6 +1080,7 @@ s3.dualstack.us-east-1.amazonaws.com/ilovemaths
 s3.dualstack.us-east-1.amazonaws.com/ironsnout
 s3.dualstack.us-east-1.amazonaws.com/iuyt
 s3.dualstack.us-east-1.amazonaws.com/ixlsucks
+s3.dualstack.us-east-1.amazonaws.com/j2zp
 s3.dualstack.us-east-1.amazonaws.com/jhds
 s3.dualstack.us-east-1.amazonaws.com/jknb
 s3.dualstack.us-east-1.amazonaws.com/jkss
@@ -1218,6 +1227,7 @@ s3.us-east-1.amazonaws.com/ilovemaths
 s3.us-east-1.amazonaws.com/ironsnout
 s3.us-east-1.amazonaws.com/iuyt
 s3.us-east-1.amazonaws.com/ixlsucks
+s3.us-east-1.amazonaws.com/j2zp
 s3.us-east-1.amazonaws.com/jhds
 s3.us-east-1.amazonaws.com/jknb
 s3.us-east-1.amazonaws.com/jkss
