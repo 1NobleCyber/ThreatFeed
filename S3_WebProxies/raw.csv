@@ -244,6 +244,11 @@ gfdd.s3-external-2.amazonaws.com
 gfdd.s3.amazonaws.com
 gfdd.s3.dualstack.us-east-1.amazonaws.com
 gfdd.s3.us-east-1.amazonaws.com
+ghbw.s3-external-1.amazonaws.com
+ghbw.s3-external-2.amazonaws.com
+ghbw.s3.amazonaws.com
+ghbw.s3.dualstack.us-east-1.amazonaws.com
+ghbw.s3.us-east-1.amazonaws.com
 glwithfinals.s3-external-1.amazonaws.com
 glwithfinals.s3-external-2.amazonaws.com
 glwithfinals.s3.amazonaws.com
@@ -662,6 +667,7 @@ s3-external-1.amazonaws.com/fsreading
 s3-external-1.amazonaws.com/fstudentsareinventors
 s3-external-1.amazonaws.com/fur2
 s3-external-1.amazonaws.com/gfdd
+s3-external-1.amazonaws.com/ghbw
 s3-external-1.amazonaws.com/glwithfinals
 s3-external-1.amazonaws.com/gnsux
 s3-external-1.amazonaws.com/googleclass
@@ -816,6 +822,7 @@ s3-external-2.amazonaws.com/fsreading
 s3-external-2.amazonaws.com/fstudentsareinventors
 s3-external-2.amazonaws.com/fur2
 s3-external-2.amazonaws.com/gfdd
+s3-external-2.amazonaws.com/ghbw
 s3-external-2.amazonaws.com/glwithfinals
 s3-external-2.amazonaws.com/gnsux
 s3-external-2.amazonaws.com/googleclass
@@ -970,6 +977,7 @@ s3.amazonaws.com/fsreading
 s3.amazonaws.com/fstudentsareinventors
 s3.amazonaws.com/fur2
 s3.amazonaws.com/gfdd
+s3.amazonaws.com/ghbw
 s3.amazonaws.com/glwithfinals
 s3.amazonaws.com/gnsux
 s3.amazonaws.com/googleclass
@@ -1124,6 +1132,7 @@ s3.dualstack.us-east-1.amazonaws.com/fsreading
 s3.dualstack.us-east-1.amazonaws.com/fstudentsareinventors
 s3.dualstack.us-east-1.amazonaws.com/fur2
 s3.dualstack.us-east-1.amazonaws.com/gfdd
+s3.dualstack.us-east-1.amazonaws.com/ghbw
 s3.dualstack.us-east-1.amazonaws.com/glwithfinals
 s3.dualstack.us-east-1.amazonaws.com/gnsux
 s3.dualstack.us-east-1.amazonaws.com/googleclass
@@ -1278,6 +1287,7 @@ s3.us-east-1.amazonaws.com/fsreading
 s3.us-east-1.amazonaws.com/fstudentsareinventors
 s3.us-east-1.amazonaws.com/fur2
 s3.us-east-1.amazonaws.com/gfdd
+s3.us-east-1.amazonaws.com/ghbw
 s3.us-east-1.amazonaws.com/glwithfinals
 s3.us-east-1.amazonaws.com/gnsux
 s3.us-east-1.amazonaws.com/googleclass
