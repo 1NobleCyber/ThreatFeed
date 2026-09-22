@@ -79,6 +79,11 @@ bhow.s3-external-2.amazonaws.com
 bhow.s3.amazonaws.com
 bhow.s3.dualstack.us-east-1.amazonaws.com
 bhow.s3.us-east-1.amazonaws.com
+birchlearn.s3-external-1.amazonaws.com
+birchlearn.s3-external-2.amazonaws.com
+birchlearn.s3.amazonaws.com
+birchlearn.s3.dualstack.us-east-1.amazonaws.com
+birchlearn.s3.us-east-1.amazonaws.com
 bkot.s3-external-1.amazonaws.com
 bkot.s3-external-2.amazonaws.com
 bkot.s3.amazonaws.com
@@ -266,6 +271,11 @@ elahomework.s3-us-east-2.amazonaws.com
 elahomework.s3.amazonaws.com
 elahomework.s3.dualstack.us-east-2.amazonaws.com
 elahomework.s3.us-east-2.amazonaws.com
+elmwoodstudy.s3-external-1.amazonaws.com
+elmwoodstudy.s3-external-2.amazonaws.com
+elmwoodstudy.s3.amazonaws.com
+elmwoodstudy.s3.dualstack.us-east-1.amazonaws.com
+elmwoodstudy.s3.us-east-1.amazonaws.com
 fernlinks.s3-external-1.amazonaws.com
 fernlinks.s3-external-2.amazonaws.com
 fernlinks.s3.amazonaws.com
@@ -701,6 +711,11 @@ quietbirchstudy.s3-external-2.amazonaws.com
 quietbirchstudy.s3.amazonaws.com
 quietbirchstudy.s3.dualstack.us-east-1.amazonaws.com
 quietbirchstudy.s3.us-east-1.amazonaws.com
+quillstudy.s3-external-1.amazonaws.com
+quillstudy.s3-external-2.amazonaws.com
+quillstudy.s3.amazonaws.com
+quillstudy.s3.dualstack.us-east-1.amazonaws.com
+quillstudy.s3.us-east-1.amazonaws.com
 qwuo.s3-external-1.amazonaws.com
 qwuo.s3-external-2.amazonaws.com
 qwuo.s3.amazonaws.com
@@ -716,6 +731,11 @@ ralsei-nth1.s3-external-2.amazonaws.com
 ralsei-nth1.s3.amazonaws.com
 ralsei-nth1.s3.dualstack.us-east-1.amazonaws.com
 ralsei-nth1.s3.us-east-1.amazonaws.com
+readloft.s3-external-1.amazonaws.com
+readloft.s3-external-2.amazonaws.com
+readloft.s3.amazonaws.com
+readloft.s3.dualstack.us-east-1.amazonaws.com
+readloft.s3.us-east-1.amazonaws.com
 readvc.s3-external-1.amazonaws.com
 readvc.s3-external-2.amazonaws.com
 readvc.s3.amazonaws.com
@@ -752,6 +772,7 @@ s3-external-1.amazonaws.com/axk4
 s3-external-1.amazonaws.com/b7u6
 s3-external-1.amazonaws.com/bestgamelol
 s3-external-1.amazonaws.com/bhow
+s3-external-1.amazonaws.com/birchlearn
 s3-external-1.amazonaws.com/bkot
 s3-external-1.amazonaws.com/brightloft
 s3-external-1.amazonaws.com/brightschooling
@@ -788,6 +809,7 @@ s3-external-1.amazonaws.com/deaganfern
 s3-external-1.amazonaws.com/deltamath-demo
 s3-external-1.amazonaws.com/driftwell
 s3-external-1.amazonaws.com/duwj
+s3-external-1.amazonaws.com/elmwoodstudy
 s3-external-1.amazonaws.com/fernlinks
 s3-external-1.amazonaws.com/fernvcsa
 s3-external-1.amazonaws.com/fhyd
@@ -874,9 +896,11 @@ s3-external-1.amazonaws.com/ow9bpeb
 s3-external-1.amazonaws.com/physicsprep
 s3-external-1.amazonaws.com/playernation
 s3-external-1.amazonaws.com/quietbirchstudy
+s3-external-1.amazonaws.com/quillstudy
 s3-external-1.amazonaws.com/qwuo
 s3-external-1.amazonaws.com/rahisbullsgoat
 s3-external-1.amazonaws.com/ralsei-nth1
+s3-external-1.amazonaws.com/readloft
 s3-external-1.amazonaws.com/readvc
 s3-external-1.amazonaws.com/rtnm
 s3-external-1.amazonaws.com/run3
@@ -936,6 +960,7 @@ s3-external-2.amazonaws.com/axk4
 s3-external-2.amazonaws.com/b7u6
 s3-external-2.amazonaws.com/bestgamelol
 s3-external-2.amazonaws.com/bhow
+s3-external-2.amazonaws.com/birchlearn
 s3-external-2.amazonaws.com/bkot
 s3-external-2.amazonaws.com/brightloft
 s3-external-2.amazonaws.com/brightschooling
@@ -972,6 +997,7 @@ s3-external-2.amazonaws.com/deaganfern
 s3-external-2.amazonaws.com/deltamath-demo
 s3-external-2.amazonaws.com/driftwell
 s3-external-2.amazonaws.com/duwj
+s3-external-2.amazonaws.com/elmwoodstudy
 s3-external-2.amazonaws.com/fernlinks
 s3-external-2.amazonaws.com/fernvcsa
 s3-external-2.amazonaws.com/fhyd
@@ -1059,9 +1085,11 @@ s3-external-2.amazonaws.com/ow9bpeb
 s3-external-2.amazonaws.com/physicsprep
 s3-external-2.amazonaws.com/playernation
 s3-external-2.amazonaws.com/quietbirchstudy
+s3-external-2.amazonaws.com/quillstudy
 s3-external-2.amazonaws.com/qwuo
 s3-external-2.amazonaws.com/rahisbullsgoat
 s3-external-2.amazonaws.com/ralsei-nth1
+s3-external-2.amazonaws.com/readloft
 s3-external-2.amazonaws.com/readvc
 s3-external-2.amazonaws.com/rtnm
 s3-external-2.amazonaws.com/run3
@@ -1122,6 +1150,7 @@ s3.amazonaws.com/axk4
 s3.amazonaws.com/b7u6
 s3.amazonaws.com/bestgamelol
 s3.amazonaws.com/bhow
+s3.amazonaws.com/birchlearn
 s3.amazonaws.com/bkot
 s3.amazonaws.com/brightloft
 s3.amazonaws.com/brightschooling
@@ -1158,6 +1187,7 @@ s3.amazonaws.com/deaganfern
 s3.amazonaws.com/deltamath-demo
 s3.amazonaws.com/driftwell
 s3.amazonaws.com/duwj
+s3.amazonaws.com/elmwoodstudy
 s3.amazonaws.com/fernlinks
 s3.amazonaws.com/fernvcsa
 s3.amazonaws.com/fhyd
@@ -1245,9 +1275,11 @@ s3.amazonaws.com/ow9bpeb
 s3.amazonaws.com/physicsprep
 s3.amazonaws.com/playernation
 s3.amazonaws.com/quietbirchstudy
+s3.amazonaws.com/quillstudy
 s3.amazonaws.com/qwuo
 s3.amazonaws.com/rahisbullsgoat
 s3.amazonaws.com/ralsei-nth1
+s3.amazonaws.com/readloft
 s3.amazonaws.com/readvc
 s3.amazonaws.com/rtnm
 s3.amazonaws.com/run3
@@ -1307,6 +1339,7 @@ s3.dualstack.us-east-1.amazonaws.com/axk4
 s3.dualstack.us-east-1.amazonaws.com/b7u6
 s3.dualstack.us-east-1.amazonaws.com/bestgamelol
 s3.dualstack.us-east-1.amazonaws.com/bhow
+s3.dualstack.us-east-1.amazonaws.com/birchlearn
 s3.dualstack.us-east-1.amazonaws.com/bkot
 s3.dualstack.us-east-1.amazonaws.com/brightloft
 s3.dualstack.us-east-1.amazonaws.com/brightschooling
@@ -1343,6 +1376,7 @@ s3.dualstack.us-east-1.amazonaws.com/deaganfern
 s3.dualstack.us-east-1.amazonaws.com/deltamath-demo
 s3.dualstack.us-east-1.amazonaws.com/driftwell
 s3.dualstack.us-east-1.amazonaws.com/duwj
+s3.dualstack.us-east-1.amazonaws.com/elmwoodstudy
 s3.dualstack.us-east-1.amazonaws.com/fernlinks
 s3.dualstack.us-east-1.amazonaws.com/fernvcsa
 s3.dualstack.us-east-1.amazonaws.com/fhyd
@@ -1430,9 +1464,11 @@ s3.dualstack.us-east-1.amazonaws.com/ow9bpeb
 s3.dualstack.us-east-1.amazonaws.com/physicsprep
 s3.dualstack.us-east-1.amazonaws.com/playernation
 s3.dualstack.us-east-1.amazonaws.com/quietbirchstudy
+s3.dualstack.us-east-1.amazonaws.com/quillstudy
 s3.dualstack.us-east-1.amazonaws.com/qwuo
 s3.dualstack.us-east-1.amazonaws.com/rahisbullsgoat
 s3.dualstack.us-east-1.amazonaws.com/ralsei-nth1
+s3.dualstack.us-east-1.amazonaws.com/readloft
 s3.dualstack.us-east-1.amazonaws.com/readvc
 s3.dualstack.us-east-1.amazonaws.com/rtnm
 s3.dualstack.us-east-1.amazonaws.com/run3
@@ -1493,6 +1529,7 @@ s3.us-east-1.amazonaws.com/axk4
 s3.us-east-1.amazonaws.com/b7u6
 s3.us-east-1.amazonaws.com/bestgamelol
 s3.us-east-1.amazonaws.com/bhow
+s3.us-east-1.amazonaws.com/birchlearn
 s3.us-east-1.amazonaws.com/bkot
 s3.us-east-1.amazonaws.com/brightloft
 s3.us-east-1.amazonaws.com/brightschooling
@@ -1529,6 +1566,7 @@ s3.us-east-1.amazonaws.com/deaganfern
 s3.us-east-1.amazonaws.com/deltamath-demo
 s3.us-east-1.amazonaws.com/driftwell
 s3.us-east-1.amazonaws.com/duwj
+s3.us-east-1.amazonaws.com/elmwoodstudy
 s3.us-east-1.amazonaws.com/fernlinks
 s3.us-east-1.amazonaws.com/fernvcsa
 s3.us-east-1.amazonaws.com/fhyd
@@ -1616,9 +1654,11 @@ s3.us-east-1.amazonaws.com/ow9bpeb
 s3.us-east-1.amazonaws.com/physicsprep
 s3.us-east-1.amazonaws.com/playernation
 s3.us-east-1.amazonaws.com/quietbirchstudy
+s3.us-east-1.amazonaws.com/quillstudy
 s3.us-east-1.amazonaws.com/qwuo
 s3.us-east-1.amazonaws.com/rahisbullsgoat
 s3.us-east-1.amazonaws.com/ralsei-nth1
+s3.us-east-1.amazonaws.com/readloft
 s3.us-east-1.amazonaws.com/readvc
 s3.us-east-1.amazonaws.com/rtnm
 s3.us-east-1.amazonaws.com/run3
