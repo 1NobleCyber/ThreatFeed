@@ -919,6 +919,7 @@ s3-external-1.amazonaws.com/sz1n
 s3-external-1.amazonaws.com/t53li04c
 s3-external-1.amazonaws.com/tbgn
 s3-external-1.amazonaws.com/tcgj
+s3-external-1.amazonaws.com/theplayernation
 s3-external-1.amazonaws.com/ti84
 s3-external-1.amazonaws.com/tibo229
 s3-external-1.amazonaws.com/ticalculatoronline
@@ -1109,6 +1110,7 @@ s3-external-2.amazonaws.com/sz1n
 s3-external-2.amazonaws.com/t53li04c
 s3-external-2.amazonaws.com/tbgn
 s3-external-2.amazonaws.com/tcgj
+s3-external-2.amazonaws.com/theplayernation
 s3-external-2.amazonaws.com/ti84
 s3-external-2.amazonaws.com/tibo229
 s3-external-2.amazonaws.com/ticalculatoronline
@@ -1300,6 +1302,7 @@ s3.amazonaws.com/sz1n
 s3.amazonaws.com/t53li04c
 s3.amazonaws.com/tbgn
 s3.amazonaws.com/tcgj
+s3.amazonaws.com/theplayernation
 s3.amazonaws.com/ti84
 s3.amazonaws.com/tibo229
 s3.amazonaws.com/ticalculatoronline
@@ -1490,6 +1493,7 @@ s3.dualstack.us-east-1.amazonaws.com/sz1n
 s3.dualstack.us-east-1.amazonaws.com/t53li04c
 s3.dualstack.us-east-1.amazonaws.com/tbgn
 s3.dualstack.us-east-1.amazonaws.com/tcgj
+s3.dualstack.us-east-1.amazonaws.com/theplayernation
 s3.dualstack.us-east-1.amazonaws.com/ti84
 s3.dualstack.us-east-1.amazonaws.com/tibo229
 s3.dualstack.us-east-1.amazonaws.com/ticalculatoronline
@@ -1681,6 +1685,7 @@ s3.us-east-1.amazonaws.com/sz1n
 s3.us-east-1.amazonaws.com/t53li04c
 s3.us-east-1.amazonaws.com/tbgn
 s3.us-east-1.amazonaws.com/tcgj
+s3.us-east-1.amazonaws.com/theplayernation
 s3.us-east-1.amazonaws.com/ti84
 s3.us-east-1.amazonaws.com/tibo229
 s3.us-east-1.amazonaws.com/ticalculatoronline
@@ -1778,6 +1783,11 @@ tcgj.s3-external-2.amazonaws.com
 tcgj.s3.amazonaws.com
 tcgj.s3.dualstack.us-east-1.amazonaws.com
 tcgj.s3.us-east-1.amazonaws.com
+theplayernation.s3-external-1.amazonaws.com
+theplayernation.s3-external-2.amazonaws.com
+theplayernation.s3.amazonaws.com
+theplayernation.s3.dualstack.us-east-1.amazonaws.com
+theplayernation.s3.us-east-1.amazonaws.com
 ti84.s3-external-1.amazonaws.com
 ti84.s3-external-2.amazonaws.com
 ti84.s3.amazonaws.com
