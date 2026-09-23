@@ -29,6 +29,11 @@ angelfern.s3-external-2.amazonaws.com
 angelfern.s3.amazonaws.com
 angelfern.s3.dualstack.us-east-1.amazonaws.com
 angelfern.s3.us-east-1.amazonaws.com
+antixticy.s3-external-1.amazonaws.com
+antixticy.s3-external-2.amazonaws.com
+antixticy.s3.amazonaws.com
+antixticy.s3.dualstack.us-east-1.amazonaws.com
+antixticy.s3.us-east-1.amazonaws.com
 apbio.s3-external-1.amazonaws.com
 apbio.s3-external-2.amazonaws.com
 apbio.s3.amazonaws.com
@@ -762,6 +767,7 @@ s3-external-1.amazonaws.com/aether-education
 s3-external-1.amazonaws.com/aether-schools
 s3-external-1.amazonaws.com/alderprep
 s3-external-1.amazonaws.com/angelfern
+s3-external-1.amazonaws.com/antixticy
 s3-external-1.amazonaws.com/apbio
 s3-external-1.amazonaws.com/apchem
 s3-external-1.amazonaws.com/apgov
@@ -952,6 +958,7 @@ s3-external-2.amazonaws.com/aether-education
 s3-external-2.amazonaws.com/aether-schools
 s3-external-2.amazonaws.com/alderprep
 s3-external-2.amazonaws.com/angelfern
+s3-external-2.amazonaws.com/antixticy
 s3-external-2.amazonaws.com/apbio
 s3-external-2.amazonaws.com/apchem
 s3-external-2.amazonaws.com/apgov
@@ -1144,6 +1151,7 @@ s3.amazonaws.com/aether-education
 s3.amazonaws.com/aether-schools
 s3.amazonaws.com/alderprep
 s3.amazonaws.com/angelfern
+s3.amazonaws.com/antixticy
 s3.amazonaws.com/apbio
 s3.amazonaws.com/apchem
 s3.amazonaws.com/apgov
@@ -1335,6 +1343,7 @@ s3.dualstack.us-east-1.amazonaws.com/aether-education
 s3.dualstack.us-east-1.amazonaws.com/aether-schools
 s3.dualstack.us-east-1.amazonaws.com/alderprep
 s3.dualstack.us-east-1.amazonaws.com/angelfern
+s3.dualstack.us-east-1.amazonaws.com/antixticy
 s3.dualstack.us-east-1.amazonaws.com/apbio
 s3.dualstack.us-east-1.amazonaws.com/apchem
 s3.dualstack.us-east-1.amazonaws.com/apgov
@@ -1527,6 +1536,7 @@ s3.us-east-1.amazonaws.com/aether-education
 s3.us-east-1.amazonaws.com/aether-schools
 s3.us-east-1.amazonaws.com/alderprep
 s3.us-east-1.amazonaws.com/angelfern
+s3.us-east-1.amazonaws.com/antixticy
 s3.us-east-1.amazonaws.com/apbio
 s3.us-east-1.amazonaws.com/apchem
 s3.us-east-1.amazonaws.com/apgov
