@@ -918,6 +918,7 @@ s3-external-1.amazonaws.com/scholarnook
 s3-external-1.amazonaws.com/schoolsucks
 s3-external-1.amazonaws.com/sgt7
 s3-external-1.amazonaws.com/slantsite
+s3-external-1.amazonaws.com/solaraos
 s3-external-1.amazonaws.com/sorana169
 s3-external-1.amazonaws.com/studypadapp
 s3-external-1.amazonaws.com/subtobull
@@ -1110,6 +1111,7 @@ s3-external-2.amazonaws.com/scholarnook
 s3-external-2.amazonaws.com/schoolsucks
 s3-external-2.amazonaws.com/sgt7
 s3-external-2.amazonaws.com/slantsite
+s3-external-2.amazonaws.com/solaraos
 s3-external-2.amazonaws.com/sorana169
 s3-external-2.amazonaws.com/studypadapp
 s3-external-2.amazonaws.com/subtobull
@@ -1303,6 +1305,7 @@ s3.amazonaws.com/scholarnook
 s3.amazonaws.com/schoolsucks
 s3.amazonaws.com/sgt7
 s3.amazonaws.com/slantsite
+s3.amazonaws.com/solaraos
 s3.amazonaws.com/sorana169
 s3.amazonaws.com/studypadapp
 s3.amazonaws.com/subtobull
@@ -1495,6 +1498,7 @@ s3.dualstack.us-east-1.amazonaws.com/scholarnook
 s3.dualstack.us-east-1.amazonaws.com/schoolsucks
 s3.dualstack.us-east-1.amazonaws.com/sgt7
 s3.dualstack.us-east-1.amazonaws.com/slantsite
+s3.dualstack.us-east-1.amazonaws.com/solaraos
 s3.dualstack.us-east-1.amazonaws.com/sorana169
 s3.dualstack.us-east-1.amazonaws.com/studypadapp
 s3.dualstack.us-east-1.amazonaws.com/subtobull
@@ -1688,6 +1692,7 @@ s3.us-east-1.amazonaws.com/scholarnook
 s3.us-east-1.amazonaws.com/schoolsucks
 s3.us-east-1.amazonaws.com/sgt7
 s3.us-east-1.amazonaws.com/slantsite
+s3.us-east-1.amazonaws.com/solaraos
 s3.us-east-1.amazonaws.com/sorana169
 s3.us-east-1.amazonaws.com/studypadapp
 s3.us-east-1.amazonaws.com/subtobull
@@ -1758,6 +1763,11 @@ slantsite.s3-external-2.amazonaws.com
 slantsite.s3.amazonaws.com
 slantsite.s3.dualstack.us-east-1.amazonaws.com
 slantsite.s3.us-east-1.amazonaws.com
+solaraos.s3-external-1.amazonaws.com
+solaraos.s3-external-2.amazonaws.com
+solaraos.s3.amazonaws.com
+solaraos.s3.dualstack.us-east-1.amazonaws.com
+solaraos.s3.us-east-1.amazonaws.com
 sorana169.s3-external-1.amazonaws.com
 sorana169.s3-external-2.amazonaws.com
 sorana169.s3.amazonaws.com
