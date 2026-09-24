@@ -94,6 +94,13 @@ bkot.s3-external-2.amazonaws.com
 bkot.s3.amazonaws.com
 bkot.s3.dualstack.us-east-1.amazonaws.com
 bkot.s3.us-east-1.amazonaws.com
+blooketassets.s3-external-1.amazonaws.com
+blooketassets.s3-external-2.amazonaws.com
+blooketassets.s3-external-3.amazonaws.com
+blooketassets.s3-us-east-2.amazonaws.com
+blooketassets.s3.amazonaws.com
+blooketassets.s3.dualstack.us-east-2.amazonaws.com
+blooketassets.s3.us-east-2.amazonaws.com
 brightloft.s3-external-1.amazonaws.com
 brightloft.s3-external-2.amazonaws.com
 brightloft.s3.amazonaws.com
@@ -1216,6 +1223,7 @@ s3-external-2.amazonaws.com/ytvcsa
 s3-external-2.amazonaws.com/z4fm
 s3-external-2.amazonaws.com/zkvp
 s3-external-2.amazonaws.com/zoxh
+s3-us-east-2.amazonaws.com/blooketassets
 s3-us-east-2.amazonaws.com/elahomework
 s3.amazonaws.com/7pfp
 s3.amazonaws.com/a4cxjc3
@@ -1623,6 +1631,7 @@ s3.dualstack.us-east-1.amazonaws.com/ytvcsa
 s3.dualstack.us-east-1.amazonaws.com/z4fm
 s3.dualstack.us-east-1.amazonaws.com/zkvp
 s3.dualstack.us-east-1.amazonaws.com/zoxh
+s3.dualstack.us-east-2.amazonaws.com/blooketassets
 s3.dualstack.us-east-2.amazonaws.com/elahomework
 s3.us-east-1.amazonaws.com/7pfp
 s3.us-east-1.amazonaws.com/a4cxjc3
@@ -1827,6 +1836,7 @@ s3.us-east-1.amazonaws.com/ytvcsa
 s3.us-east-1.amazonaws.com/z4fm
 s3.us-east-1.amazonaws.com/zkvp
 s3.us-east-1.amazonaws.com/zoxh
+s3.us-east-2.amazonaws.com/blooketassets
 s3.us-east-2.amazonaws.com/elahomework
 s3ef.s3-external-1.amazonaws.com
 s3ef.s3-external-2.amazonaws.com
