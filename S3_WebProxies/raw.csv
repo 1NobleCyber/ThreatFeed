@@ -613,6 +613,11 @@ lucidesux.s3-external-2.amazonaws.com
 lucidesux.s3.amazonaws.com
 lucidesux.s3.dualstack.us-east-1.amazonaws.com
 lucidesux.s3.us-east-1.amazonaws.com
+lucidetutoring.s3-external-1.amazonaws.com
+lucidetutoring.s3-external-2.amazonaws.com
+lucidetutoring.s3.amazonaws.com
+lucidetutoring.s3.dualstack.us-east-1.amazonaws.com
+lucidetutoring.s3.us-east-1.amazonaws.com
 luminacorehi.s3-external-1.amazonaws.com
 luminacorehi.s3-external-2.amazonaws.com
 luminacorehi.s3.amazonaws.com
@@ -942,6 +947,7 @@ s3-external-1.amazonaws.com/lsrelay-i
 s3-external-1.amazonaws.com/lsrelay-l
 s3-external-1.amazonaws.com/lucidestatic
 s3-external-1.amazonaws.com/lucidesux
+s3-external-1.amazonaws.com/lucidetutoring
 s3-external-1.amazonaws.com/luminacorehi
 s3-external-1.amazonaws.com/macrolo
 s3-external-1.amazonaws.com/macrologoat
@@ -1146,6 +1152,7 @@ s3-external-2.amazonaws.com/lsrelay-i
 s3-external-2.amazonaws.com/lsrelay-l
 s3-external-2.amazonaws.com/lucidestatic
 s3-external-2.amazonaws.com/lucidesux
+s3-external-2.amazonaws.com/lucidetutoring
 s3-external-2.amazonaws.com/luminacorehi
 s3-external-2.amazonaws.com/macrolo
 s3-external-2.amazonaws.com/macrologoat
@@ -1352,6 +1359,7 @@ s3.amazonaws.com/lsrelay-i
 s3.amazonaws.com/lsrelay-l
 s3.amazonaws.com/lucidestatic
 s3.amazonaws.com/lucidesux
+s3.amazonaws.com/lucidetutoring
 s3.amazonaws.com/luminacorehi
 s3.amazonaws.com/macrolo
 s3.amazonaws.com/macrologoat
@@ -1556,6 +1564,7 @@ s3.dualstack.us-east-1.amazonaws.com/lsrelay-i
 s3.dualstack.us-east-1.amazonaws.com/lsrelay-l
 s3.dualstack.us-east-1.amazonaws.com/lucidestatic
 s3.dualstack.us-east-1.amazonaws.com/lucidesux
+s3.dualstack.us-east-1.amazonaws.com/lucidetutoring
 s3.dualstack.us-east-1.amazonaws.com/luminacorehi
 s3.dualstack.us-east-1.amazonaws.com/macrolo
 s3.dualstack.us-east-1.amazonaws.com/macrologoat
@@ -1762,6 +1771,7 @@ s3.us-east-1.amazonaws.com/lsrelay-i
 s3.us-east-1.amazonaws.com/lsrelay-l
 s3.us-east-1.amazonaws.com/lucidestatic
 s3.us-east-1.amazonaws.com/lucidesux
+s3.us-east-1.amazonaws.com/lucidetutoring
 s3.us-east-1.amazonaws.com/luminacorehi
 s3.us-east-1.amazonaws.com/macrolo
 s3.us-east-1.amazonaws.com/macrologoat
