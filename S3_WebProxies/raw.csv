@@ -189,6 +189,11 @@ calc247.s3-external-2.amazonaws.com
 calc247.s3.amazonaws.com
 calc247.s3.dualstack.us-east-1.amazonaws.com
 calc247.s3.us-east-1.amazonaws.com
+catclassgoat.s3-external-1.amazonaws.com
+catclassgoat.s3-external-2.amazonaws.com
+catclassgoat.s3.amazonaws.com
+catclassgoat.s3.dualstack.us-east-1.amazonaws.com
+catclassgoat.s3.us-east-1.amazonaws.com
 cedarlearn.s3-external-1.amazonaws.com
 cedarlearn.s3-external-2.amazonaws.com
 cedarlearn.s3.amazonaws.com
@@ -804,6 +809,7 @@ s3-external-1.amazonaws.com/bullubg
 s3-external-1.amazonaws.com/bullyt
 s3-external-1.amazonaws.com/c4lowrb4
 s3-external-1.amazonaws.com/calc247
+s3-external-1.amazonaws.com/catclassgoat
 s3-external-1.amazonaws.com/cedarlearn
 s3-external-1.amazonaws.com/cherri-s3-test
 s3-external-1.amazonaws.com/cherrimath
@@ -997,6 +1003,7 @@ s3-external-2.amazonaws.com/bullubg
 s3-external-2.amazonaws.com/bullyt
 s3-external-2.amazonaws.com/c4lowrb4
 s3-external-2.amazonaws.com/calc247
+s3-external-2.amazonaws.com/catclassgoat
 s3-external-2.amazonaws.com/cedarlearn
 s3-external-2.amazonaws.com/cherri-s3-test
 s3-external-2.amazonaws.com/cherrimath
@@ -1192,6 +1199,7 @@ s3.amazonaws.com/bullubg
 s3.amazonaws.com/bullyt
 s3.amazonaws.com/c4lowrb4
 s3.amazonaws.com/calc247
+s3.amazonaws.com/catclassgoat
 s3.amazonaws.com/cedarlearn
 s3.amazonaws.com/cherri-s3-test
 s3.amazonaws.com/cherrimath
@@ -1386,6 +1394,7 @@ s3.dualstack.us-east-1.amazonaws.com/bullubg
 s3.dualstack.us-east-1.amazonaws.com/bullyt
 s3.dualstack.us-east-1.amazonaws.com/c4lowrb4
 s3.dualstack.us-east-1.amazonaws.com/calc247
+s3.dualstack.us-east-1.amazonaws.com/catclassgoat
 s3.dualstack.us-east-1.amazonaws.com/cedarlearn
 s3.dualstack.us-east-1.amazonaws.com/cherri-s3-test
 s3.dualstack.us-east-1.amazonaws.com/cherrimath
@@ -1581,6 +1590,7 @@ s3.us-east-1.amazonaws.com/bullubg
 s3.us-east-1.amazonaws.com/bullyt
 s3.us-east-1.amazonaws.com/c4lowrb4
 s3.us-east-1.amazonaws.com/calc247
+s3.us-east-1.amazonaws.com/catclassgoat
 s3.us-east-1.amazonaws.com/cedarlearn
 s3.us-east-1.amazonaws.com/cherri-s3-test
 s3.us-east-1.amazonaws.com/cherrimath
