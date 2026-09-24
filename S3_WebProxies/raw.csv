@@ -189,6 +189,11 @@ calc247.s3-external-2.amazonaws.com
 calc247.s3.amazonaws.com
 calc247.s3.dualstack.us-east-1.amazonaws.com
 calc247.s3.us-east-1.amazonaws.com
+cat4z.s3-external-1.amazonaws.com
+cat4z.s3-external-2.amazonaws.com
+cat4z.s3.amazonaws.com
+cat4z.s3.dualstack.us-east-1.amazonaws.com
+cat4z.s3.us-east-1.amazonaws.com
 catclassgoat.s3-external-1.amazonaws.com
 catclassgoat.s3-external-2.amazonaws.com
 catclassgoat.s3.amazonaws.com
@@ -234,6 +239,11 @@ christopher2u.s3-external-2.amazonaws.com
 christopher2u.s3.amazonaws.com
 christopher2u.s3.dualstack.us-east-1.amazonaws.com
 christopher2u.s3.us-east-1.amazonaws.com
+chrri.s3-external-1.amazonaws.com
+chrri.s3-external-2.amazonaws.com
+chrri.s3.amazonaws.com
+chrri.s3.dualstack.us-east-1.amazonaws.com
+chrri.s3.us-east-1.amazonaws.com
 chubbyverity.s3-external-1.amazonaws.com
 chubbyverity.s3-external-2.amazonaws.com
 chubbyverity.s3.amazonaws.com
@@ -351,6 +361,11 @@ glimapp.s3-external-2.amazonaws.com
 glimapp.s3.amazonaws.com
 glimapp.s3.dualstack.us-east-1.amazonaws.com
 glimapp.s3.us-east-1.amazonaws.com
+glimstudy.s3-external-1.amazonaws.com
+glimstudy.s3-external-2.amazonaws.com
+glimstudy.s3.amazonaws.com
+glimstudy.s3.dualstack.us-east-1.amazonaws.com
+glimstudy.s3.us-east-1.amazonaws.com
 glwithfinals.s3-external-1.amazonaws.com
 glwithfinals.s3-external-2.amazonaws.com
 glwithfinals.s3.amazonaws.com
@@ -711,6 +726,11 @@ ow9bpeb.s3-external-2.amazonaws.com
 ow9bpeb.s3.amazonaws.com
 ow9bpeb.s3.dualstack.us-east-1.amazonaws.com
 ow9bpeb.s3.us-east-1.amazonaws.com
+phtn.s3-external-1.amazonaws.com
+phtn.s3-external-2.amazonaws.com
+phtn.s3.amazonaws.com
+phtn.s3.dualstack.us-east-1.amazonaws.com
+phtn.s3.us-east-1.amazonaws.com
 physicsprep.s3-external-1.amazonaws.com
 physicsprep.s3-external-2.amazonaws.com
 physicsprep.s3.amazonaws.com
@@ -721,6 +741,11 @@ playernation.s3-external-2.amazonaws.com
 playernation.s3.amazonaws.com
 playernation.s3.dualstack.us-east-1.amazonaws.com
 playernation.s3.us-east-1.amazonaws.com
+ptnx.s3-external-1.amazonaws.com
+ptnx.s3-external-2.amazonaws.com
+ptnx.s3.amazonaws.com
+ptnx.s3.dualstack.us-east-1.amazonaws.com
+ptnx.s3.us-east-1.amazonaws.com
 quietbirchstudy.s3-external-1.amazonaws.com
 quietbirchstudy.s3-external-2.amazonaws.com
 quietbirchstudy.s3.amazonaws.com
@@ -809,6 +834,7 @@ s3-external-1.amazonaws.com/bullubg
 s3-external-1.amazonaws.com/bullyt
 s3-external-1.amazonaws.com/c4lowrb4
 s3-external-1.amazonaws.com/calc247
+s3-external-1.amazonaws.com/cat4z
 s3-external-1.amazonaws.com/catclassgoat
 s3-external-1.amazonaws.com/cedarlearn
 s3-external-1.amazonaws.com/cherri-s3-test
@@ -818,6 +844,7 @@ s3-external-1.amazonaws.com/cherrireading
 s3-external-1.amazonaws.com/cherrisux
 s3-external-1.amazonaws.com/christopher2
 s3-external-1.amazonaws.com/christopher2u
+s3-external-1.amazonaws.com/chrri
 s3-external-1.amazonaws.com/chubbyverity
 s3-external-1.amazonaws.com/ckat
 s3-external-1.amazonaws.com/classroomc47c1455
@@ -839,6 +866,7 @@ s3-external-1.amazonaws.com/fur2
 s3-external-1.amazonaws.com/gfdd
 s3-external-1.amazonaws.com/ghbw
 s3-external-1.amazonaws.com/glimapp
+s3-external-1.amazonaws.com/glimstudy
 s3-external-1.amazonaws.com/glwithfinals
 s3-external-1.amazonaws.com/gnsux
 s3-external-1.amazonaws.com/googleclass
@@ -911,8 +939,10 @@ s3-external-1.amazonaws.com/opiumbest
 s3-external-1.amazonaws.com/opiumbull
 s3-external-1.amazonaws.com/os4e
 s3-external-1.amazonaws.com/ow9bpeb
+s3-external-1.amazonaws.com/phtn
 s3-external-1.amazonaws.com/physicsprep
 s3-external-1.amazonaws.com/playernation
+s3-external-1.amazonaws.com/ptnx
 s3-external-1.amazonaws.com/quietbirchstudy
 s3-external-1.amazonaws.com/quillstudy
 s3-external-1.amazonaws.com/qwuo
@@ -1003,6 +1033,7 @@ s3-external-2.amazonaws.com/bullubg
 s3-external-2.amazonaws.com/bullyt
 s3-external-2.amazonaws.com/c4lowrb4
 s3-external-2.amazonaws.com/calc247
+s3-external-2.amazonaws.com/cat4z
 s3-external-2.amazonaws.com/catclassgoat
 s3-external-2.amazonaws.com/cedarlearn
 s3-external-2.amazonaws.com/cherri-s3-test
@@ -1012,6 +1043,7 @@ s3-external-2.amazonaws.com/cherrireading
 s3-external-2.amazonaws.com/cherrisux
 s3-external-2.amazonaws.com/christopher2
 s3-external-2.amazonaws.com/christopher2u
+s3-external-2.amazonaws.com/chrri
 s3-external-2.amazonaws.com/chubbyverity
 s3-external-2.amazonaws.com/ckat
 s3-external-2.amazonaws.com/classroomc47c1455
@@ -1034,6 +1066,7 @@ s3-external-2.amazonaws.com/fur2
 s3-external-2.amazonaws.com/gfdd
 s3-external-2.amazonaws.com/ghbw
 s3-external-2.amazonaws.com/glimapp
+s3-external-2.amazonaws.com/glimstudy
 s3-external-2.amazonaws.com/glwithfinals
 s3-external-2.amazonaws.com/gnsux
 s3-external-2.amazonaws.com/googleclass
@@ -1106,8 +1139,10 @@ s3-external-2.amazonaws.com/opiumbest
 s3-external-2.amazonaws.com/opiumbull
 s3-external-2.amazonaws.com/os4e
 s3-external-2.amazonaws.com/ow9bpeb
+s3-external-2.amazonaws.com/phtn
 s3-external-2.amazonaws.com/physicsprep
 s3-external-2.amazonaws.com/playernation
+s3-external-2.amazonaws.com/ptnx
 s3-external-2.amazonaws.com/quietbirchstudy
 s3-external-2.amazonaws.com/quillstudy
 s3-external-2.amazonaws.com/qwuo
@@ -1199,6 +1234,7 @@ s3.amazonaws.com/bullubg
 s3.amazonaws.com/bullyt
 s3.amazonaws.com/c4lowrb4
 s3.amazonaws.com/calc247
+s3.amazonaws.com/cat4z
 s3.amazonaws.com/catclassgoat
 s3.amazonaws.com/cedarlearn
 s3.amazonaws.com/cherri-s3-test
@@ -1208,6 +1244,7 @@ s3.amazonaws.com/cherrireading
 s3.amazonaws.com/cherrisux
 s3.amazonaws.com/christopher2
 s3.amazonaws.com/christopher2u
+s3.amazonaws.com/chrri
 s3.amazonaws.com/chubbyverity
 s3.amazonaws.com/ckat
 s3.amazonaws.com/classroomc47c1455
@@ -1230,6 +1267,7 @@ s3.amazonaws.com/fur2
 s3.amazonaws.com/gfdd
 s3.amazonaws.com/ghbw
 s3.amazonaws.com/glimapp
+s3.amazonaws.com/glimstudy
 s3.amazonaws.com/glwithfinals
 s3.amazonaws.com/gnsux
 s3.amazonaws.com/googleclass
@@ -1302,8 +1340,10 @@ s3.amazonaws.com/opiumbest
 s3.amazonaws.com/opiumbull
 s3.amazonaws.com/os4e
 s3.amazonaws.com/ow9bpeb
+s3.amazonaws.com/phtn
 s3.amazonaws.com/physicsprep
 s3.amazonaws.com/playernation
+s3.amazonaws.com/ptnx
 s3.amazonaws.com/quietbirchstudy
 s3.amazonaws.com/quillstudy
 s3.amazonaws.com/qwuo
@@ -1394,6 +1434,7 @@ s3.dualstack.us-east-1.amazonaws.com/bullubg
 s3.dualstack.us-east-1.amazonaws.com/bullyt
 s3.dualstack.us-east-1.amazonaws.com/c4lowrb4
 s3.dualstack.us-east-1.amazonaws.com/calc247
+s3.dualstack.us-east-1.amazonaws.com/cat4z
 s3.dualstack.us-east-1.amazonaws.com/catclassgoat
 s3.dualstack.us-east-1.amazonaws.com/cedarlearn
 s3.dualstack.us-east-1.amazonaws.com/cherri-s3-test
@@ -1403,6 +1444,7 @@ s3.dualstack.us-east-1.amazonaws.com/cherrireading
 s3.dualstack.us-east-1.amazonaws.com/cherrisux
 s3.dualstack.us-east-1.amazonaws.com/christopher2
 s3.dualstack.us-east-1.amazonaws.com/christopher2u
+s3.dualstack.us-east-1.amazonaws.com/chrri
 s3.dualstack.us-east-1.amazonaws.com/chubbyverity
 s3.dualstack.us-east-1.amazonaws.com/ckat
 s3.dualstack.us-east-1.amazonaws.com/classroomc47c1455
@@ -1425,6 +1467,7 @@ s3.dualstack.us-east-1.amazonaws.com/fur2
 s3.dualstack.us-east-1.amazonaws.com/gfdd
 s3.dualstack.us-east-1.amazonaws.com/ghbw
 s3.dualstack.us-east-1.amazonaws.com/glimapp
+s3.dualstack.us-east-1.amazonaws.com/glimstudy
 s3.dualstack.us-east-1.amazonaws.com/glwithfinals
 s3.dualstack.us-east-1.amazonaws.com/gnsux
 s3.dualstack.us-east-1.amazonaws.com/googleclass
@@ -1497,8 +1540,10 @@ s3.dualstack.us-east-1.amazonaws.com/opiumbest
 s3.dualstack.us-east-1.amazonaws.com/opiumbull
 s3.dualstack.us-east-1.amazonaws.com/os4e
 s3.dualstack.us-east-1.amazonaws.com/ow9bpeb
+s3.dualstack.us-east-1.amazonaws.com/phtn
 s3.dualstack.us-east-1.amazonaws.com/physicsprep
 s3.dualstack.us-east-1.amazonaws.com/playernation
+s3.dualstack.us-east-1.amazonaws.com/ptnx
 s3.dualstack.us-east-1.amazonaws.com/quietbirchstudy
 s3.dualstack.us-east-1.amazonaws.com/quillstudy
 s3.dualstack.us-east-1.amazonaws.com/qwuo
@@ -1590,6 +1635,7 @@ s3.us-east-1.amazonaws.com/bullubg
 s3.us-east-1.amazonaws.com/bullyt
 s3.us-east-1.amazonaws.com/c4lowrb4
 s3.us-east-1.amazonaws.com/calc247
+s3.us-east-1.amazonaws.com/cat4z
 s3.us-east-1.amazonaws.com/catclassgoat
 s3.us-east-1.amazonaws.com/cedarlearn
 s3.us-east-1.amazonaws.com/cherri-s3-test
@@ -1599,6 +1645,7 @@ s3.us-east-1.amazonaws.com/cherrireading
 s3.us-east-1.amazonaws.com/cherrisux
 s3.us-east-1.amazonaws.com/christopher2
 s3.us-east-1.amazonaws.com/christopher2u
+s3.us-east-1.amazonaws.com/chrri
 s3.us-east-1.amazonaws.com/chubbyverity
 s3.us-east-1.amazonaws.com/ckat
 s3.us-east-1.amazonaws.com/classroomc47c1455
@@ -1621,6 +1668,7 @@ s3.us-east-1.amazonaws.com/fur2
 s3.us-east-1.amazonaws.com/gfdd
 s3.us-east-1.amazonaws.com/ghbw
 s3.us-east-1.amazonaws.com/glimapp
+s3.us-east-1.amazonaws.com/glimstudy
 s3.us-east-1.amazonaws.com/glwithfinals
 s3.us-east-1.amazonaws.com/gnsux
 s3.us-east-1.amazonaws.com/googleclass
@@ -1693,8 +1741,10 @@ s3.us-east-1.amazonaws.com/opiumbest
 s3.us-east-1.amazonaws.com/opiumbull
 s3.us-east-1.amazonaws.com/os4e
 s3.us-east-1.amazonaws.com/ow9bpeb
+s3.us-east-1.amazonaws.com/phtn
 s3.us-east-1.amazonaws.com/physicsprep
 s3.us-east-1.amazonaws.com/playernation
+s3.us-east-1.amazonaws.com/ptnx
 s3.us-east-1.amazonaws.com/quietbirchstudy
 s3.us-east-1.amazonaws.com/quillstudy
 s3.us-east-1.amazonaws.com/qwuo
