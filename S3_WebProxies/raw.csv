@@ -1084,6 +1084,7 @@ s3-external-1.amazonaws.com/ulg3
 s3-external-1.amazonaws.com/usekitedu
 s3-external-1.amazonaws.com/utopiaweb
 s3-external-1.amazonaws.com/v3-sportsurgetv-o
+s3-external-1.amazonaws.com/vbzatuq
 s3-external-1.amazonaws.com/vcsa-sux
 s3-external-1.amazonaws.com/vcsa-yt
 s3-external-1.amazonaws.com/vcsabestyoutuber
@@ -1303,6 +1304,7 @@ s3-external-2.amazonaws.com/ulg3
 s3-external-2.amazonaws.com/usekitedu
 s3-external-2.amazonaws.com/utopiaweb
 s3-external-2.amazonaws.com/v3-sportsurgetv-o
+s3-external-2.amazonaws.com/vbzatuq
 s3-external-2.amazonaws.com/vcsa-sux
 s3-external-2.amazonaws.com/vcsa-yt
 s3-external-2.amazonaws.com/vcsabestyoutuber
@@ -1524,6 +1526,7 @@ s3.amazonaws.com/ulg3
 s3.amazonaws.com/usekitedu
 s3.amazonaws.com/utopiaweb
 s3.amazonaws.com/v3-sportsurgetv-o
+s3.amazonaws.com/vbzatuq
 s3.amazonaws.com/vcsa-sux
 s3.amazonaws.com/vcsa-yt
 s3.amazonaws.com/vcsabestyoutuber
@@ -1743,6 +1746,7 @@ s3.dualstack.us-east-1.amazonaws.com/ulg3
 s3.dualstack.us-east-1.amazonaws.com/usekitedu
 s3.dualstack.us-east-1.amazonaws.com/utopiaweb
 s3.dualstack.us-east-1.amazonaws.com/v3-sportsurgetv-o
+s3.dualstack.us-east-1.amazonaws.com/vbzatuq
 s3.dualstack.us-east-1.amazonaws.com/vcsa-sux
 s3.dualstack.us-east-1.amazonaws.com/vcsa-yt
 s3.dualstack.us-east-1.amazonaws.com/vcsabestyoutuber
@@ -1964,6 +1968,7 @@ s3.us-east-1.amazonaws.com/ulg3
 s3.us-east-1.amazonaws.com/usekitedu
 s3.us-east-1.amazonaws.com/utopiaweb
 s3.us-east-1.amazonaws.com/v3-sportsurgetv-o
+s3.us-east-1.amazonaws.com/vbzatuq
 s3.us-east-1.amazonaws.com/vcsa-sux
 s3.us-east-1.amazonaws.com/vcsa-yt
 s3.us-east-1.amazonaws.com/vcsabestyoutuber
@@ -2119,6 +2124,11 @@ v3-sportsurgetv-o.s3-external-2.amazonaws.com
 v3-sportsurgetv-o.s3.amazonaws.com
 v3-sportsurgetv-o.s3.dualstack.us-east-1.amazonaws.com
 v3-sportsurgetv-o.s3.us-east-1.amazonaws.com
+vbzatuq.s3-external-1.amazonaws.com
+vbzatuq.s3-external-2.amazonaws.com
+vbzatuq.s3.amazonaws.com
+vbzatuq.s3.dualstack.us-east-1.amazonaws.com
+vbzatuq.s3.us-east-1.amazonaws.com
 vcsa-sux.s3-external-1.amazonaws.com
 vcsa-sux.s3-external-2.amazonaws.com
 vcsa-sux.s3.amazonaws.com
