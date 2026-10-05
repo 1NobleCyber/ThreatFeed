@@ -24,6 +24,11 @@ Domain
 7pfp.s3.amazonaws.com
 7pfp.s3.dualstack.us-east-1.amazonaws.com
 7pfp.s3.us-east-1.amazonaws.com
+8t14.s3-external-1.amazonaws.com
+8t14.s3-external-2.amazonaws.com
+8t14.s3.amazonaws.com
+8t14.s3.dualstack.us-east-1.amazonaws.com
+8t14.s3.us-east-1.amazonaws.com
 a4cxjc3.s3-external-1.amazonaws.com
 a4cxjc3.s3-external-2.amazonaws.com
 a4cxjc3.s3.amazonaws.com
@@ -914,6 +919,7 @@ s3-external-1.amazonaws.com/2027games
 s3-external-1.amazonaws.com/37de
 s3-external-1.amazonaws.com/4apg
 s3-external-1.amazonaws.com/7pfp
+s3-external-1.amazonaws.com/8t14
 s3-external-1.amazonaws.com/a4cxjc3
 s3-external-1.amazonaws.com/aether-education
 s3-external-1.amazonaws.com/aether-schools
@@ -1138,6 +1144,7 @@ s3-external-2.amazonaws.com/2027games
 s3-external-2.amazonaws.com/37de
 s3-external-2.amazonaws.com/4apg
 s3-external-2.amazonaws.com/7pfp
+s3-external-2.amazonaws.com/8t14
 s3-external-2.amazonaws.com/a4cxjc3
 s3-external-2.amazonaws.com/aether-education
 s3-external-2.amazonaws.com/aether-schools
@@ -1365,6 +1372,7 @@ s3.amazonaws.com/2027games
 s3.amazonaws.com/37de
 s3.amazonaws.com/4apg
 s3.amazonaws.com/7pfp
+s3.amazonaws.com/8t14
 s3.amazonaws.com/a4cxjc3
 s3.amazonaws.com/aether-education
 s3.amazonaws.com/aether-schools
@@ -1590,6 +1598,7 @@ s3.dualstack.us-east-1.amazonaws.com/2027games
 s3.dualstack.us-east-1.amazonaws.com/37de
 s3.dualstack.us-east-1.amazonaws.com/4apg
 s3.dualstack.us-east-1.amazonaws.com/7pfp
+s3.dualstack.us-east-1.amazonaws.com/8t14
 s3.dualstack.us-east-1.amazonaws.com/a4cxjc3
 s3.dualstack.us-east-1.amazonaws.com/aether-education
 s3.dualstack.us-east-1.amazonaws.com/aether-schools
@@ -1817,6 +1826,7 @@ s3.us-east-1.amazonaws.com/2027games
 s3.us-east-1.amazonaws.com/37de
 s3.us-east-1.amazonaws.com/4apg
 s3.us-east-1.amazonaws.com/7pfp
+s3.us-east-1.amazonaws.com/8t14
 s3.us-east-1.amazonaws.com/a4cxjc3
 s3.us-east-1.amazonaws.com/aether-education
 s3.us-east-1.amazonaws.com/aether-schools
