@@ -354,6 +354,11 @@ elmwoodstudy.s3-external-2.amazonaws.com
 elmwoodstudy.s3.amazonaws.com
 elmwoodstudy.s3.dualstack.us-east-1.amazonaws.com
 elmwoodstudy.s3.us-east-1.amazonaws.com
+englishtutoring.s3-external-1.amazonaws.com
+englishtutoring.s3-external-2.amazonaws.com
+englishtutoring.s3.amazonaws.com
+englishtutoring.s3.dualstack.us-east-1.amazonaws.com
+englishtutoring.s3.us-east-1.amazonaws.com
 eo1x.s3-external-1.amazonaws.com
 eo1x.s3-external-2.amazonaws.com
 eo1x.s3.amazonaws.com
@@ -982,6 +987,7 @@ s3-external-1.amazonaws.com/deltamath-demo
 s3-external-1.amazonaws.com/driftwell
 s3-external-1.amazonaws.com/duwj
 s3-external-1.amazonaws.com/elmwoodstudy
+s3-external-1.amazonaws.com/englishtutoring
 s3-external-1.amazonaws.com/eo1x
 s3-external-1.amazonaws.com/fernlinks
 s3-external-1.amazonaws.com/fernvcsa
@@ -1207,6 +1213,7 @@ s3-external-2.amazonaws.com/deltamath-demo
 s3-external-2.amazonaws.com/driftwell
 s3-external-2.amazonaws.com/duwj
 s3-external-2.amazonaws.com/elmwoodstudy
+s3-external-2.amazonaws.com/englishtutoring
 s3-external-2.amazonaws.com/eo1x
 s3-external-2.amazonaws.com/fernlinks
 s3-external-2.amazonaws.com/fernvcsa
@@ -1435,6 +1442,7 @@ s3.amazonaws.com/deltamath-demo
 s3.amazonaws.com/driftwell
 s3.amazonaws.com/duwj
 s3.amazonaws.com/elmwoodstudy
+s3.amazonaws.com/englishtutoring
 s3.amazonaws.com/eo1x
 s3.amazonaws.com/fernlinks
 s3.amazonaws.com/fernvcsa
@@ -1661,6 +1669,7 @@ s3.dualstack.us-east-1.amazonaws.com/deltamath-demo
 s3.dualstack.us-east-1.amazonaws.com/driftwell
 s3.dualstack.us-east-1.amazonaws.com/duwj
 s3.dualstack.us-east-1.amazonaws.com/elmwoodstudy
+s3.dualstack.us-east-1.amazonaws.com/englishtutoring
 s3.dualstack.us-east-1.amazonaws.com/eo1x
 s3.dualstack.us-east-1.amazonaws.com/fernlinks
 s3.dualstack.us-east-1.amazonaws.com/fernvcsa
@@ -1889,6 +1898,7 @@ s3.us-east-1.amazonaws.com/deltamath-demo
 s3.us-east-1.amazonaws.com/driftwell
 s3.us-east-1.amazonaws.com/duwj
 s3.us-east-1.amazonaws.com/elmwoodstudy
+s3.us-east-1.amazonaws.com/englishtutoring
 s3.us-east-1.amazonaws.com/eo1x
 s3.us-east-1.amazonaws.com/fernlinks
 s3.us-east-1.amazonaws.com/fernvcsa
