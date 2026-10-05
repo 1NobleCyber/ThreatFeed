@@ -142,6 +142,11 @@ bull-best.s3-external-2.amazonaws.com
 bull-best.s3.amazonaws.com
 bull-best.s3.dualstack.us-east-1.amazonaws.com
 bull-best.s3.us-east-1.amazonaws.com
+bull33goat.s3-external-1.amazonaws.com
+bull33goat.s3-external-2.amazonaws.com
+bull33goat.s3.amazonaws.com
+bull33goat.s3.dualstack.us-east-1.amazonaws.com
+bull33goat.s3.us-east-1.amazonaws.com
 bullbestyoutuber.s3-external-1.amazonaws.com
 bullbestyoutuber.s3-external-2.amazonaws.com
 bullbestyoutuber.s3.amazonaws.com
@@ -926,6 +931,7 @@ s3-external-1.amazonaws.com/brightloft
 s3-external-1.amazonaws.com/brightschooling
 s3-external-1.amazonaws.com/budge-s3explorer
 s3-external-1.amazonaws.com/bull-best
+s3-external-1.amazonaws.com/bull33goat
 s3-external-1.amazonaws.com/bullbestyoutuber
 s3-external-1.amazonaws.com/bulldebut
 s3-external-1.amazonaws.com/bulledu
@@ -1148,6 +1154,7 @@ s3-external-2.amazonaws.com/brightloft
 s3-external-2.amazonaws.com/brightschooling
 s3-external-2.amazonaws.com/budge-s3explorer
 s3-external-2.amazonaws.com/bull-best
+s3-external-2.amazonaws.com/bull33goat
 s3-external-2.amazonaws.com/bullbestyoutuber
 s3-external-2.amazonaws.com/bulldebut
 s3-external-2.amazonaws.com/bulledu
@@ -1373,6 +1380,7 @@ s3.amazonaws.com/brightloft
 s3.amazonaws.com/brightschooling
 s3.amazonaws.com/budge-s3explorer
 s3.amazonaws.com/bull-best
+s3.amazonaws.com/bull33goat
 s3.amazonaws.com/bullbestyoutuber
 s3.amazonaws.com/bulldebut
 s3.amazonaws.com/bulledu
@@ -1596,6 +1604,7 @@ s3.dualstack.us-east-1.amazonaws.com/brightloft
 s3.dualstack.us-east-1.amazonaws.com/brightschooling
 s3.dualstack.us-east-1.amazonaws.com/budge-s3explorer
 s3.dualstack.us-east-1.amazonaws.com/bull-best
+s3.dualstack.us-east-1.amazonaws.com/bull33goat
 s3.dualstack.us-east-1.amazonaws.com/bullbestyoutuber
 s3.dualstack.us-east-1.amazonaws.com/bulldebut
 s3.dualstack.us-east-1.amazonaws.com/bulledu
@@ -1821,6 +1830,7 @@ s3.us-east-1.amazonaws.com/brightloft
 s3.us-east-1.amazonaws.com/brightschooling
 s3.us-east-1.amazonaws.com/budge-s3explorer
 s3.us-east-1.amazonaws.com/bull-best
+s3.us-east-1.amazonaws.com/bull33goat
 s3.us-east-1.amazonaws.com/bullbestyoutuber
 s3.us-east-1.amazonaws.com/bulldebut
 s3.us-east-1.amazonaws.com/bulledu
