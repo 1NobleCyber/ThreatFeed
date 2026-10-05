@@ -297,6 +297,11 @@ cleverlearning.s3-external-2.amazonaws.com
 cleverlearning.s3.amazonaws.com
 cleverlearning.s3.dualstack.us-east-1.amazonaws.com
 cleverlearning.s3.us-east-1.amazonaws.com
+cqqp.s3-external-1.amazonaws.com
+cqqp.s3-external-2.amazonaws.com
+cqqp.s3.amazonaws.com
+cqqp.s3.dualstack.us-east-1.amazonaws.com
+cqqp.s3.us-east-1.amazonaws.com
 cworks.s3-external-1.amazonaws.com
 cworks.s3-external-2.amazonaws.com
 cworks.s3.amazonaws.com
@@ -952,6 +957,7 @@ s3-external-1.amazonaws.com/chubbyverity
 s3-external-1.amazonaws.com/ckat
 s3-external-1.amazonaws.com/classroomc47c1455
 s3-external-1.amazonaws.com/cleverlearning
+s3-external-1.amazonaws.com/cqqp
 s3-external-1.amazonaws.com/cworks
 s3-external-1.amazonaws.com/deaganfern
 s3-external-1.amazonaws.com/deltamath-demo
@@ -1173,6 +1179,7 @@ s3-external-2.amazonaws.com/chubbyverity
 s3-external-2.amazonaws.com/ckat
 s3-external-2.amazonaws.com/classroomc47c1455
 s3-external-2.amazonaws.com/cleverlearning
+s3-external-2.amazonaws.com/cqqp
 s3-external-2.amazonaws.com/cworks
 s3-external-2.amazonaws.com/deaganfern
 s3-external-2.amazonaws.com/deltamath-demo
@@ -1397,6 +1404,7 @@ s3.amazonaws.com/chubbyverity
 s3.amazonaws.com/ckat
 s3.amazonaws.com/classroomc47c1455
 s3.amazonaws.com/cleverlearning
+s3.amazonaws.com/cqqp
 s3.amazonaws.com/cworks
 s3.amazonaws.com/deaganfern
 s3.amazonaws.com/deltamath-demo
@@ -1619,6 +1627,7 @@ s3.dualstack.us-east-1.amazonaws.com/chubbyverity
 s3.dualstack.us-east-1.amazonaws.com/ckat
 s3.dualstack.us-east-1.amazonaws.com/classroomc47c1455
 s3.dualstack.us-east-1.amazonaws.com/cleverlearning
+s3.dualstack.us-east-1.amazonaws.com/cqqp
 s3.dualstack.us-east-1.amazonaws.com/cworks
 s3.dualstack.us-east-1.amazonaws.com/deaganfern
 s3.dualstack.us-east-1.amazonaws.com/deltamath-demo
@@ -1843,6 +1852,7 @@ s3.us-east-1.amazonaws.com/chubbyverity
 s3.us-east-1.amazonaws.com/ckat
 s3.us-east-1.amazonaws.com/classroomc47c1455
 s3.us-east-1.amazonaws.com/cleverlearning
+s3.us-east-1.amazonaws.com/cqqp
 s3.us-east-1.amazonaws.com/cworks
 s3.us-east-1.amazonaws.com/deaganfern
 s3.us-east-1.amazonaws.com/deltamath-demo
