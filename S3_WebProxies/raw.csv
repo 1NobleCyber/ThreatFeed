@@ -227,6 +227,11 @@ c4lowrb4.s3-external-2.amazonaws.com
 c4lowrb4.s3.amazonaws.com
 c4lowrb4.s3.dualstack.us-east-1.amazonaws.com
 c4lowrb4.s3.us-east-1.amazonaws.com
+caddyprep.s3-external-1.amazonaws.com
+caddyprep.s3-external-2.amazonaws.com
+caddyprep.s3.amazonaws.com
+caddyprep.s3.dualstack.us-east-1.amazonaws.com
+caddyprep.s3.us-east-1.amazonaws.com
 calc247.s3-external-1.amazonaws.com
 calc247.s3-external-2.amazonaws.com
 calc247.s3.amazonaws.com
@@ -659,6 +664,11 @@ lgbq.s3-external-2.amazonaws.com
 lgbq.s3.amazonaws.com
 lgbq.s3.dualstack.us-east-1.amazonaws.com
 lgbq.s3.us-east-1.amazonaws.com
+lightspeeds.s3-external-1.amazonaws.com
+lightspeeds.s3-external-2.amazonaws.com
+lightspeeds.s3.amazonaws.com
+lightspeeds.s3.dualstack.us-east-1.amazonaws.com
+lightspeeds.s3.us-east-1.amazonaws.com
 lmeyo.s3-external-1.amazonaws.com
 lmeyo.s3-external-2.amazonaws.com
 lmeyo.s3.amazonaws.com
@@ -978,6 +988,7 @@ s3-external-1.amazonaws.com/bullreading
 s3-external-1.amazonaws.com/bullubg
 s3-external-1.amazonaws.com/bullyt
 s3-external-1.amazonaws.com/c4lowrb4
+s3-external-1.amazonaws.com/caddyprep
 s3-external-1.amazonaws.com/calc247
 s3-external-1.amazonaws.com/cat4z
 s3-external-1.amazonaws.com/catclassgoat
@@ -1062,6 +1073,7 @@ s3-external-1.amazonaws.com/leeshawn
 s3-external-1.amazonaws.com/lessonbay
 s3-external-1.amazonaws.com/lessonpadweb
 s3-external-1.amazonaws.com/lgbq
+s3-external-1.amazonaws.com/lightspeeds
 s3-external-1.amazonaws.com/lmeyo
 s3-external-1.amazonaws.com/lotoso
 s3-external-1.amazonaws.com/lsrelay-1
@@ -1209,6 +1221,7 @@ s3-external-2.amazonaws.com/bullreading
 s3-external-2.amazonaws.com/bullubg
 s3-external-2.amazonaws.com/bullyt
 s3-external-2.amazonaws.com/c4lowrb4
+s3-external-2.amazonaws.com/caddyprep
 s3-external-2.amazonaws.com/calc247
 s3-external-2.amazonaws.com/cat4z
 s3-external-2.amazonaws.com/catclassgoat
@@ -1294,6 +1307,7 @@ s3-external-2.amazonaws.com/leeshawn
 s3-external-2.amazonaws.com/lessonbay
 s3-external-2.amazonaws.com/lessonpadweb
 s3-external-2.amazonaws.com/lgbq
+s3-external-2.amazonaws.com/lightspeeds
 s3-external-2.amazonaws.com/lmeyo
 s3-external-2.amazonaws.com/lotoso
 s3-external-2.amazonaws.com/lsrelay-1
@@ -1443,6 +1457,7 @@ s3.amazonaws.com/bullreading
 s3.amazonaws.com/bullubg
 s3.amazonaws.com/bullyt
 s3.amazonaws.com/c4lowrb4
+s3.amazonaws.com/caddyprep
 s3.amazonaws.com/calc247
 s3.amazonaws.com/cat4z
 s3.amazonaws.com/catclassgoat
@@ -1528,6 +1543,7 @@ s3.amazonaws.com/leeshawn
 s3.amazonaws.com/lessonbay
 s3.amazonaws.com/lessonpadweb
 s3.amazonaws.com/lgbq
+s3.amazonaws.com/lightspeeds
 s3.amazonaws.com/lmeyo
 s3.amazonaws.com/lotoso
 s3.amazonaws.com/lsrelay-1
@@ -1675,6 +1691,7 @@ s3.dualstack.us-east-1.amazonaws.com/bullreading
 s3.dualstack.us-east-1.amazonaws.com/bullubg
 s3.dualstack.us-east-1.amazonaws.com/bullyt
 s3.dualstack.us-east-1.amazonaws.com/c4lowrb4
+s3.dualstack.us-east-1.amazonaws.com/caddyprep
 s3.dualstack.us-east-1.amazonaws.com/calc247
 s3.dualstack.us-east-1.amazonaws.com/cat4z
 s3.dualstack.us-east-1.amazonaws.com/catclassgoat
@@ -1760,6 +1777,7 @@ s3.dualstack.us-east-1.amazonaws.com/leeshawn
 s3.dualstack.us-east-1.amazonaws.com/lessonbay
 s3.dualstack.us-east-1.amazonaws.com/lessonpadweb
 s3.dualstack.us-east-1.amazonaws.com/lgbq
+s3.dualstack.us-east-1.amazonaws.com/lightspeeds
 s3.dualstack.us-east-1.amazonaws.com/lmeyo
 s3.dualstack.us-east-1.amazonaws.com/lotoso
 s3.dualstack.us-east-1.amazonaws.com/lsrelay-1
@@ -1909,6 +1927,7 @@ s3.us-east-1.amazonaws.com/bullreading
 s3.us-east-1.amazonaws.com/bullubg
 s3.us-east-1.amazonaws.com/bullyt
 s3.us-east-1.amazonaws.com/c4lowrb4
+s3.us-east-1.amazonaws.com/caddyprep
 s3.us-east-1.amazonaws.com/calc247
 s3.us-east-1.amazonaws.com/cat4z
 s3.us-east-1.amazonaws.com/catclassgoat
@@ -1994,6 +2013,7 @@ s3.us-east-1.amazonaws.com/leeshawn
 s3.us-east-1.amazonaws.com/lessonbay
 s3.us-east-1.amazonaws.com/lessonpadweb
 s3.us-east-1.amazonaws.com/lgbq
+s3.us-east-1.amazonaws.com/lightspeeds
 s3.us-east-1.amazonaws.com/lmeyo
 s3.us-east-1.amazonaws.com/lotoso
 s3.us-east-1.amazonaws.com/lsrelay-1
