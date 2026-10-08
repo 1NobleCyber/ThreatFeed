@@ -836,6 +836,11 @@ notegrove.s3-external-2.amazonaws.com
 notegrove.s3.amazonaws.com
 notegrove.s3.dualstack.us-east-1.amazonaws.com
 notegrove.s3.us-east-1.amazonaws.com
+notly.s3-external-1.amazonaws.com
+notly.s3-external-2.amazonaws.com
+notly.s3.amazonaws.com
+notly.s3.dualstack.us-east-1.amazonaws.com
+notly.s3.us-east-1.amazonaws.com
 novacraftzone.s3-external-1.amazonaws.com
 novacraftzone.s3-external-2.amazonaws.com
 novacraftzone.s3.amazonaws.com
@@ -1129,6 +1134,7 @@ s3-external-1.amazonaws.com/nizika
 s3-external-1.amazonaws.com/nocap-tr3j
 s3-external-1.amazonaws.com/notebinderapp
 s3-external-1.amazonaws.com/notegrove
+s3-external-1.amazonaws.com/notly
 s3-external-1.amazonaws.com/novacraftzone
 s3-external-1.amazonaws.com/o7ry
 s3-external-1.amazonaws.com/obtabe179
@@ -1368,6 +1374,7 @@ s3-external-2.amazonaws.com/nizika
 s3-external-2.amazonaws.com/nocap-tr3j
 s3-external-2.amazonaws.com/notebinderapp
 s3-external-2.amazonaws.com/notegrove
+s3-external-2.amazonaws.com/notly
 s3-external-2.amazonaws.com/novacraftzone
 s3-external-2.amazonaws.com/o7ry
 s3-external-2.amazonaws.com/obtabe179
@@ -1609,6 +1616,7 @@ s3.amazonaws.com/nizika
 s3.amazonaws.com/nocap-tr3j
 s3.amazonaws.com/notebinderapp
 s3.amazonaws.com/notegrove
+s3.amazonaws.com/notly
 s3.amazonaws.com/novacraftzone
 s3.amazonaws.com/o7ry
 s3.amazonaws.com/obtabe179
@@ -1848,6 +1856,7 @@ s3.dualstack.us-east-1.amazonaws.com/nizika
 s3.dualstack.us-east-1.amazonaws.com/nocap-tr3j
 s3.dualstack.us-east-1.amazonaws.com/notebinderapp
 s3.dualstack.us-east-1.amazonaws.com/notegrove
+s3.dualstack.us-east-1.amazonaws.com/notly
 s3.dualstack.us-east-1.amazonaws.com/novacraftzone
 s3.dualstack.us-east-1.amazonaws.com/o7ry
 s3.dualstack.us-east-1.amazonaws.com/obtabe179
@@ -2089,6 +2098,7 @@ s3.us-east-1.amazonaws.com/nizika
 s3.us-east-1.amazonaws.com/nocap-tr3j
 s3.us-east-1.amazonaws.com/notebinderapp
 s3.us-east-1.amazonaws.com/notegrove
+s3.us-east-1.amazonaws.com/notly
 s3.us-east-1.amazonaws.com/novacraftzone
 s3.us-east-1.amazonaws.com/o7ry
 s3.us-east-1.amazonaws.com/obtabe179
