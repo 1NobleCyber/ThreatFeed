@@ -896,6 +896,11 @@ ow9bpeb.s3-external-2.amazonaws.com
 ow9bpeb.s3.amazonaws.com
 ow9bpeb.s3.dualstack.us-east-1.amazonaws.com
 ow9bpeb.s3.us-east-1.amazonaws.com
+padx.s3-external-1.amazonaws.com
+padx.s3-external-2.amazonaws.com
+padx.s3.amazonaws.com
+padx.s3.dualstack.us-east-1.amazonaws.com
+padx.s3.us-east-1.amazonaws.com
 phtn.s3-external-1.amazonaws.com
 phtn.s3-external-2.amazonaws.com
 phtn.s3.amazonaws.com
@@ -1151,6 +1156,7 @@ s3-external-1.amazonaws.com/opiumbest
 s3-external-1.amazonaws.com/opiumbull
 s3-external-1.amazonaws.com/os4e
 s3-external-1.amazonaws.com/ow9bpeb
+s3-external-1.amazonaws.com/padx
 s3-external-1.amazonaws.com/phtn
 s3-external-1.amazonaws.com/physicsprep
 s3-external-1.amazonaws.com/playernation
@@ -1392,6 +1398,7 @@ s3-external-2.amazonaws.com/opiumbest
 s3-external-2.amazonaws.com/opiumbull
 s3-external-2.amazonaws.com/os4e
 s3-external-2.amazonaws.com/ow9bpeb
+s3-external-2.amazonaws.com/padx
 s3-external-2.amazonaws.com/phtn
 s3-external-2.amazonaws.com/physicsprep
 s3-external-2.amazonaws.com/playernation
@@ -1635,6 +1642,7 @@ s3.amazonaws.com/opiumbest
 s3.amazonaws.com/opiumbull
 s3.amazonaws.com/os4e
 s3.amazonaws.com/ow9bpeb
+s3.amazonaws.com/padx
 s3.amazonaws.com/phtn
 s3.amazonaws.com/physicsprep
 s3.amazonaws.com/playernation
@@ -1876,6 +1884,7 @@ s3.dualstack.us-east-1.amazonaws.com/opiumbest
 s3.dualstack.us-east-1.amazonaws.com/opiumbull
 s3.dualstack.us-east-1.amazonaws.com/os4e
 s3.dualstack.us-east-1.amazonaws.com/ow9bpeb
+s3.dualstack.us-east-1.amazonaws.com/padx
 s3.dualstack.us-east-1.amazonaws.com/phtn
 s3.dualstack.us-east-1.amazonaws.com/physicsprep
 s3.dualstack.us-east-1.amazonaws.com/playernation
@@ -2119,6 +2128,7 @@ s3.us-east-1.amazonaws.com/opiumbest
 s3.us-east-1.amazonaws.com/opiumbull
 s3.us-east-1.amazonaws.com/os4e
 s3.us-east-1.amazonaws.com/ow9bpeb
+s3.us-east-1.amazonaws.com/padx
 s3.us-east-1.amazonaws.com/phtn
 s3.us-east-1.amazonaws.com/physicsprep
 s3.us-east-1.amazonaws.com/playernation
