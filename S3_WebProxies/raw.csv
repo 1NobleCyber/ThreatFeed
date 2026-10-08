@@ -142,6 +142,13 @@ brightschooling.s3-external-2.amazonaws.com
 brightschooling.s3.amazonaws.com
 brightschooling.s3.dualstack.us-east-1.amazonaws.com
 brightschooling.s3.us-east-1.amazonaws.com
+brookprep.s3-external-1.amazonaws.com
+brookprep.s3-external-2.amazonaws.com
+brookprep.s3-website-us-east-1.amazonaws.com
+brookprep.s3-website.us-east-1.amazonaws.com
+brookprep.s3.amazonaws.com
+brookprep.s3.dualstack.us-east-1.amazonaws.com
+brookprep.s3.us-east-1.amazonaws.com
 budge-s3explorer.s3-external-1.amazonaws.com
 budge-s3explorer.s3-external-2.amazonaws.com
 budge-s3explorer.s3.amazonaws.com
@@ -986,6 +993,7 @@ s3-external-1.amazonaws.com/birchlearn
 s3-external-1.amazonaws.com/bkot
 s3-external-1.amazonaws.com/brightloft
 s3-external-1.amazonaws.com/brightschooling
+s3-external-1.amazonaws.com/brookprep
 s3-external-1.amazonaws.com/budge-s3explorer
 s3-external-1.amazonaws.com/bull-best
 s3-external-1.amazonaws.com/bull33goat
@@ -1156,6 +1164,7 @@ s3-external-1.amazonaws.com/sgt7
 s3-external-1.amazonaws.com/slantsite
 s3-external-1.amazonaws.com/solaraos
 s3-external-1.amazonaws.com/sorana169
+s3-external-1.amazonaws.com/studydock
 s3-external-1.amazonaws.com/studypadapp
 s3-external-1.amazonaws.com/subtobull
 s3-external-1.amazonaws.com/sz1n
@@ -1222,6 +1231,7 @@ s3-external-2.amazonaws.com/birchlearn
 s3-external-2.amazonaws.com/bkot
 s3-external-2.amazonaws.com/brightloft
 s3-external-2.amazonaws.com/brightschooling
+s3-external-2.amazonaws.com/brookprep
 s3-external-2.amazonaws.com/budge-s3explorer
 s3-external-2.amazonaws.com/bull-best
 s3-external-2.amazonaws.com/bull33goat
@@ -1393,6 +1403,7 @@ s3-external-2.amazonaws.com/sgt7
 s3-external-2.amazonaws.com/slantsite
 s3-external-2.amazonaws.com/solaraos
 s3-external-2.amazonaws.com/sorana169
+s3-external-2.amazonaws.com/studydock
 s3-external-2.amazonaws.com/studypadapp
 s3-external-2.amazonaws.com/subtobull
 s3-external-2.amazonaws.com/sz1n
@@ -1461,6 +1472,7 @@ s3.amazonaws.com/birchlearn
 s3.amazonaws.com/bkot
 s3.amazonaws.com/brightloft
 s3.amazonaws.com/brightschooling
+s3.amazonaws.com/brookprep
 s3.amazonaws.com/budge-s3explorer
 s3.amazonaws.com/bull-best
 s3.amazonaws.com/bull33goat
@@ -1632,6 +1644,7 @@ s3.amazonaws.com/sgt7
 s3.amazonaws.com/slantsite
 s3.amazonaws.com/solaraos
 s3.amazonaws.com/sorana169
+s3.amazonaws.com/studydock
 s3.amazonaws.com/studypadapp
 s3.amazonaws.com/subtobull
 s3.amazonaws.com/sz1n
@@ -1698,6 +1711,7 @@ s3.dualstack.us-east-1.amazonaws.com/birchlearn
 s3.dualstack.us-east-1.amazonaws.com/bkot
 s3.dualstack.us-east-1.amazonaws.com/brightloft
 s3.dualstack.us-east-1.amazonaws.com/brightschooling
+s3.dualstack.us-east-1.amazonaws.com/brookprep
 s3.dualstack.us-east-1.amazonaws.com/budge-s3explorer
 s3.dualstack.us-east-1.amazonaws.com/bull-best
 s3.dualstack.us-east-1.amazonaws.com/bull33goat
@@ -1869,6 +1883,7 @@ s3.dualstack.us-east-1.amazonaws.com/sgt7
 s3.dualstack.us-east-1.amazonaws.com/slantsite
 s3.dualstack.us-east-1.amazonaws.com/solaraos
 s3.dualstack.us-east-1.amazonaws.com/sorana169
+s3.dualstack.us-east-1.amazonaws.com/studydock
 s3.dualstack.us-east-1.amazonaws.com/studypadapp
 s3.dualstack.us-east-1.amazonaws.com/subtobull
 s3.dualstack.us-east-1.amazonaws.com/sz1n
@@ -1937,6 +1952,7 @@ s3.us-east-1.amazonaws.com/birchlearn
 s3.us-east-1.amazonaws.com/bkot
 s3.us-east-1.amazonaws.com/brightloft
 s3.us-east-1.amazonaws.com/brightschooling
+s3.us-east-1.amazonaws.com/brookprep
 s3.us-east-1.amazonaws.com/budge-s3explorer
 s3.us-east-1.amazonaws.com/bull-best
 s3.us-east-1.amazonaws.com/bull33goat
@@ -2108,6 +2124,7 @@ s3.us-east-1.amazonaws.com/sgt7
 s3.us-east-1.amazonaws.com/slantsite
 s3.us-east-1.amazonaws.com/solaraos
 s3.us-east-1.amazonaws.com/sorana169
+s3.us-east-1.amazonaws.com/studydock
 s3.us-east-1.amazonaws.com/studypadapp
 s3.us-east-1.amazonaws.com/subtobull
 s3.us-east-1.amazonaws.com/sz1n
@@ -2194,6 +2211,13 @@ sorana169.s3-external-2.amazonaws.com
 sorana169.s3.amazonaws.com
 sorana169.s3.dualstack.us-east-1.amazonaws.com
 sorana169.s3.us-east-1.amazonaws.com
+studydock.s3-external-1.amazonaws.com
+studydock.s3-external-2.amazonaws.com
+studydock.s3-website-us-east-1.amazonaws.com
+studydock.s3-website.us-east-1.amazonaws.com
+studydock.s3.amazonaws.com
+studydock.s3.dualstack.us-east-1.amazonaws.com
+studydock.s3.us-east-1.amazonaws.com
 studypadapp.s3-external-1.amazonaws.com
 studypadapp.s3-external-2.amazonaws.com
 studypadapp.s3.amazonaws.com
