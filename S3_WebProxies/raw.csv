@@ -696,6 +696,11 @@ lightspeeds.s3-external-2.amazonaws.com
 lightspeeds.s3.amazonaws.com
 lightspeeds.s3.dualstack.us-east-1.amazonaws.com
 lightspeeds.s3.us-east-1.amazonaws.com
+lmeyo-cok1.s3-external-1.amazonaws.com
+lmeyo-cok1.s3-external-2.amazonaws.com
+lmeyo-cok1.s3.amazonaws.com
+lmeyo-cok1.s3.dualstack.us-east-1.amazonaws.com
+lmeyo-cok1.s3.us-east-1.amazonaws.com
 lmeyo.s3-external-1.amazonaws.com
 lmeyo.s3-external-2.amazonaws.com
 lmeyo.s3.amazonaws.com
@@ -1122,6 +1127,7 @@ s3-external-1.amazonaws.com/lessonpadweb
 s3-external-1.amazonaws.com/lgbq
 s3-external-1.amazonaws.com/lightspeeds
 s3-external-1.amazonaws.com/lmeyo
+s3-external-1.amazonaws.com/lmeyo-cok1
 s3-external-1.amazonaws.com/lotoso
 s3-external-1.amazonaws.com/lsrelay-1
 s3-external-1.amazonaws.com/lsrelay-a
@@ -1365,6 +1371,7 @@ s3-external-2.amazonaws.com/lessonpadweb
 s3-external-2.amazonaws.com/lgbq
 s3-external-2.amazonaws.com/lightspeeds
 s3-external-2.amazonaws.com/lmeyo
+s3-external-2.amazonaws.com/lmeyo-cok1
 s3-external-2.amazonaws.com/lotoso
 s3-external-2.amazonaws.com/lsrelay-1
 s3-external-2.amazonaws.com/lsrelay-a
@@ -1610,6 +1617,7 @@ s3.amazonaws.com/lessonpadweb
 s3.amazonaws.com/lgbq
 s3.amazonaws.com/lightspeeds
 s3.amazonaws.com/lmeyo
+s3.amazonaws.com/lmeyo-cok1
 s3.amazonaws.com/lotoso
 s3.amazonaws.com/lsrelay-1
 s3.amazonaws.com/lsrelay-a
@@ -1853,6 +1861,7 @@ s3.dualstack.us-east-1.amazonaws.com/lessonpadweb
 s3.dualstack.us-east-1.amazonaws.com/lgbq
 s3.dualstack.us-east-1.amazonaws.com/lightspeeds
 s3.dualstack.us-east-1.amazonaws.com/lmeyo
+s3.dualstack.us-east-1.amazonaws.com/lmeyo-cok1
 s3.dualstack.us-east-1.amazonaws.com/lotoso
 s3.dualstack.us-east-1.amazonaws.com/lsrelay-1
 s3.dualstack.us-east-1.amazonaws.com/lsrelay-a
@@ -2098,6 +2107,7 @@ s3.us-east-1.amazonaws.com/lessonpadweb
 s3.us-east-1.amazonaws.com/lgbq
 s3.us-east-1.amazonaws.com/lightspeeds
 s3.us-east-1.amazonaws.com/lmeyo
+s3.us-east-1.amazonaws.com/lmeyo-cok1
 s3.us-east-1.amazonaws.com/lotoso
 s3.us-east-1.amazonaws.com/lsrelay-1
 s3.us-east-1.amazonaws.com/lsrelay-a
