@@ -349,6 +349,11 @@ deltamath-demo.s3-external-2.amazonaws.com
 deltamath-demo.s3.amazonaws.com
 deltamath-demo.s3.dualstack.us-east-1.amazonaws.com
 deltamath-demo.s3.us-east-1.amazonaws.com
+dimisa.s3-external-1.amazonaws.com
+dimisa.s3-external-2.amazonaws.com
+dimisa.s3.amazonaws.com
+dimisa.s3.dualstack.us-east-1.amazonaws.com
+dimisa.s3.us-east-1.amazonaws.com
 driftwell.s3-external-1.amazonaws.com
 driftwell.s3-external-2.amazonaws.com
 driftwell.s3.amazonaws.com
@@ -1049,6 +1054,7 @@ s3-external-1.amazonaws.com/cqqp
 s3-external-1.amazonaws.com/cworks
 s3-external-1.amazonaws.com/deaganfern
 s3-external-1.amazonaws.com/deltamath-demo
+s3-external-1.amazonaws.com/dimisa
 s3-external-1.amazonaws.com/driftwell
 s3-external-1.amazonaws.com/duwj
 s3-external-1.amazonaws.com/elmwoodstudy
@@ -1290,6 +1296,7 @@ s3-external-2.amazonaws.com/cqqp
 s3-external-2.amazonaws.com/cworks
 s3-external-2.amazonaws.com/deaganfern
 s3-external-2.amazonaws.com/deltamath-demo
+s3-external-2.amazonaws.com/dimisa
 s3-external-2.amazonaws.com/driftwell
 s3-external-2.amazonaws.com/duwj
 s3-external-2.amazonaws.com/elmwoodstudy
@@ -1534,6 +1541,7 @@ s3.amazonaws.com/cqqp
 s3.amazonaws.com/cworks
 s3.amazonaws.com/deaganfern
 s3.amazonaws.com/deltamath-demo
+s3.amazonaws.com/dimisa
 s3.amazonaws.com/driftwell
 s3.amazonaws.com/duwj
 s3.amazonaws.com/elmwoodstudy
@@ -1776,6 +1784,7 @@ s3.dualstack.us-east-1.amazonaws.com/cqqp
 s3.dualstack.us-east-1.amazonaws.com/cworks
 s3.dualstack.us-east-1.amazonaws.com/deaganfern
 s3.dualstack.us-east-1.amazonaws.com/deltamath-demo
+s3.dualstack.us-east-1.amazonaws.com/dimisa
 s3.dualstack.us-east-1.amazonaws.com/driftwell
 s3.dualstack.us-east-1.amazonaws.com/duwj
 s3.dualstack.us-east-1.amazonaws.com/elmwoodstudy
@@ -2020,6 +2029,7 @@ s3.us-east-1.amazonaws.com/cqqp
 s3.us-east-1.amazonaws.com/cworks
 s3.us-east-1.amazonaws.com/deaganfern
 s3.us-east-1.amazonaws.com/deltamath-demo
+s3.us-east-1.amazonaws.com/dimisa
 s3.us-east-1.amazonaws.com/driftwell
 s3.us-east-1.amazonaws.com/duwj
 s3.us-east-1.amazonaws.com/elmwoodstudy
